@@ -1,0 +1,7 @@
+"No.","ID","Name","Match status","Pvalue","Metabolite ID","Metabolites","Sig. Metabolite ID","Sig. Metabolites"
+1,"hsa00591","Linoleic acid metabolism","2 in 5","2.85e-04","C14826; C04717","12,13-EpOME; ()13-HpODE","C14826; C04717","12,13-EpOME; ()13-HpODE"
+2,"hsa00140","Steroid hormone biosynthesis","3 in 85","9.94e-03","C05497; C05285; C04295","21-Deoxycortisol; Adrenosterone; Androstenediol","C05497; C05285; C04295","21-Deoxycortisol; Adrenosterone; Androstenediol"
+3,"hsa00780","Biotin metabolism","1 in 10","0.056","C05552","Biocytin-(N-Biotinyl-L-lysine)","C05552","Biocytin-(N-Biotinyl-L-lysine)"
+4,"hsa00760","Nicotinate and nicotinamide metabolism","1 in 15","0.082","C05842","3-Hydroxyphenylurea","C05842","3-Hydroxyphenylurea"
+5,"hsa00350","Tyrosine metabolism","1 in 42","0.216","C05585","2,5-Dihydroxybenzaldehyde","C05585","2,5-Dihydroxybenzaldehyde"
+6,"hsa00983","Drug metabolism - other enzymes","1 in 48","0.243","C07446","Isonicotinicacid","C07446","Isonicotinicacid"

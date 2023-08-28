@@ -1,0 +1,4 @@
+"No.","ID","Name","Match status","Pvalue","Metabolite ID","Metabolites","Sig. Metabolite ID","Sig. Metabolites"
+1,"hsa00350","Tyrosine metabolism","1 in 42",0.078,"C05585","2,5-Dihydroxybenzaldehyde","C05585","2,5-Dihydroxybenzaldehyde"
+2,"hsa00120","Primary bile acid biosynthesis","1 in 46",0.085,"C03594","7alpha-Hydroxycholesterol","C03594","7alpha-Hydroxycholesterol"
+3,"hsa00140","Steroid hormone biosynthesis","1 in 85",0.153,"C05488","Cortexolone","C05488","Cortexolone"

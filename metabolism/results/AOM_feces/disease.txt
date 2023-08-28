@@ -1,0 +1,582 @@
+	Compounds	cpd_ID	HMDB
+1	Eliglustat	-	-
+2	D-Phenylalanine	C02265	-
+3	Tetraethylammonium bromide	-	-
+4	1-Oleoyl-sn-glycero-3-phosphocholine	-	HMDB0002815
+5	Methyl dioxindole-3-acetate	-	HMDB0038991
+6	3,7-Di-O-methylquercetin	C01265	HMDB0029263
+7	2,4,6-Trihydroxybenzoic acid	-	HMDB0029649
+8	L-Glutamic Acid	C00025	HMDB0000148
+9	3-Hydroxy-3-Methylpentane-1,5-Dioic Acid	C03761	HMDB0000355
+10	N-Acetyl-L-Leucine	C02710	HMDB0011756
+11	N-Acetyl-L-Tyrosine	C01657	HMDB0000866
+12	N-Propionylglycine	-	HMDB0000783
+13	O-Phospho-L-Serine	C01005	HMDB0000272
+14	2,5-Dihydroxybenzoic acid	C00628	HMDB0000152
+15	3-Hydroxyanthranilic Acid	C00632	HMDB0001476
+16	Phthalic Acid	C01606	HMDB0002107
+17	P¨CHydroxyphenyl Acetic Acid	C00642	HMDB0000020
+18	4-Pyridoxic Acid	C00847	HMDB0000017
+19	Enterodiol	C18166	HMDB0005056
+20	Protocatechuic Aldehyde	C16700	HMDB0059965
+21	4-Hydroxy-3-methoxybenzaldehyde	C00755	HMDB0012308
+22	Xanthine	C00385	HMDB0000292
+23	2'-Deoxyuridine	C00526	HMDB0000012
+24	5-Methyluridine	-	HMDB0000884
+25	Thymidine	C00214	HMDB0000273
+26	Uridine	C00299	HMDB0000296
+27	Pyrroloquinoline Quinone	C00113	HMDB0013636
+28	Citric Acid	C00158	HMDB0000094
+29	Succinic Acid	C00042	HMDB0000254
+30	¦Á-Ketoglutaric Acid£¨¦Á-KG£©	C00026	HMDB0000208
+31	2-Aminoethanesulfonic Acid	C00245	HMDB0000251
+32	2-Hydroxyisocaproic Acid	D87748	HMDB0000665
+33	2-Methylsuccinic Acid	-	HMDB0001844
+34	3,5-Dimethoxy-4-Hydroxycinnamic Acid	C00482	HMDB0032616
+35	3-Hydroxy-3-Methyl Butyric Acid	C20827	HMDB0000754
+36	Adipic Acid	C06104	HMDB0000448
+37	Dodecanedioic Aicd	C02678	HMDB0000623
+38	Glutaric Acid	C00489	HMDB0000661
+39	Homogentisic Acid	C00544	HMDB0000130
+40	4-Hydroxy-3-methoxyphenylacetic acid	C05582	HMDB0000118
+41	Hydrocinnamic Acid	C05629	HMDB0000764
+42	Mandelic Acid	C01984	HMDB0000703
+43	Methylmalonic Acid	C02170	HMDB0000202
+44	Phenyllactate(Pla)	C01479	HMDB0000779
+45	(¡À)15-HETE	C04742	HMDB0003876
+46	LPE(18:1/0:0)	-	HMDB0011506
+47	LPE(16:0/0:0)	-	-
+48	LPE(14:0/0:0)	-	-
+49	9,10-DiHOME	C14828	HMDB0004704
+50	FFA(18:2)	C01595	HMDB0000673
+51	AA	C00219	HMDB0001043
+52	4-Hydroxybenzaldehyde	C00633	HMDB0011718
+53	Ethylmalonate	-	HMDB0000622
+54	Acetaminophen Glucuronide	-	HMDB0010316
+55	5-Hydroxyhexanoic Acid	-	HMDB0000525
+56	Oxoadipic Acid	C00322	HMDB0000225
+57	Aminomalonic Acid	C00872	HMDB0001147
+58	Indole-3-lactic acid	C02043	HMDB0000671
+59	2-(4-Hydroxyphenyl)ethanol	C06044	HMDB0004284
+60	Hydroxyphenyllactic acid	C03672	HMDB0000755
+61	Indole 3-carbinol	-	HMDB0005785
+62	Tetradecanedioic acid	C11002	HMDB0000872
+63	2,3-Dinor-TXB2	-	HMDB0002904
+64	2,5-Dihydroxybenzaldehyde	C05585	HMDB0004062
+65	Indoleacetaldehyde	C00637	HMDB0001190
+66	Ethylsalicylate	D70269	HMDB0029817
+67	Oxaloacetic acid	C00036	HMDB0000223
+68	4-tert-Octylphenol	C14205	HMDB0013825
+69	4-Hydroxybenzyl alcohol	C17467	HMDB0011724
+70	2,4-Di-tert-butylphenol	-	HMDB0013816
+71	Methylparaben	D01400	HMDB0032572
+72	(¡À)12-HETE	-	HMDB0006111
+73	(¡À)5-HETE	C04805	HMDB0011134
+74	(¡À)9-HETE	-	HMDB0010222
+75	11,12-EET	-	-
+76	12,13-EpOME	C14826	HMDB0004702
+77	15-oxoETE	C04577	HMDB0010210
+78	9,10-EpOME	-	-
+79	Prostaglandin E2	C00584	HMDB0001220
+80	3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid	-	HMDB0002643
+81	D-Glucuronolactone	C02670	HMDB0006355
+82	Indole 3-Ethanol	C00955	HMDB0003447
+83	3-Amino-4-Hydroxybenzoic Acid	C12115	-
+84	2',4'-Dihydroxyacetophenone	C03663	HMDB0029659
+85	3-(4-Hydroxyphenyl)-Propionic Acid	C01744	HMDB0002199
+86	p-Cresol	C01468	HMDB0001858
+87	cis-EODA	C19418	HMDB0061650
+88	4-acetoxyphenol	C13636	-
+89	2-ethyl-2-hydroxybutyric acid	-	HMDB0001975
+90	7-ketolithocholic acid	-	-
+91	12-ketolithocholic acid	-	HMDB0000328
+92	D-Ribono-1,4-lactone	C02674	HMDB0001900
+93	Apocholic acid	-	-
+94	4-Methyl-2-oxovaleric acid	C00233	-
+95	FFA(20:4)	-	-
+96	Quinolinic acid	C03722	HMDB0000232
+97	5-hydroxyindole acetaldehyde	C05634	-
+98	2-Acetylresorcinol	C21895	HMDB0011538
+99	Acetaminophen	C06804	HMDB0001859
+100	Orsellinate	C01839	-
+101	4-hydroxyphenylglyoxylate	C03590	-
+102	2-(4-hydroxyphenyl) propionate	C03080	HMDB0041683
+103	Bis(1-inositol) -3,1'-phosphate 1-phosphate	C19799	-
+104	LPI(16:0/0:0)	-	-
+105	LPE(0:0/22:4)	-	-
+106	LPE(22:4/0:0)	-	-
+107	LPE(0:0/20:2)	-	-
+108	LPE(20:2/0:0)	-	-
+109	LPE(20:4/0:0)	-	-
+110	LPE(0:0/18:2)	-	-
+111	LPE(0:0/18:3)	-	-
+112	LPE(18:3/0:0)	-	-
+113	LPE(0:0/16:0)	-	-
+114	LPE(0:0/16:1)	-	-
+115	1-Aminocyclohexanoic acid	-	-
+116	3,3-Dimethylglutaric acid	-	HMDB0002441
+117	2-Hydroxy-2-Methyl Butyric acid	-	HMDB0001987
+118	2,3-Dihydroxybenzoic acid	C00196	HMDB0000397
+119	2-Methylglutaric Acid	D91481	HMDB0000422
+120	(S)-Leucic acid	-	HMDB0000746
+121	Pentadecanoic acid	C16537	HMDB0000826
+122	(R)-(-)-2-Phenylpropionic Acid	-	-
+123	N-Palmitoylglycine	D76997	HMDB0013034
+124	(¡À)13-HpODE	C04717	HMDB0003871
+125	Prostaglandin B2	C05954	HMDB0004236
+126	11¦Â-Prostaglandin E2	-	HMDB0060041
+127	13,14-dihydro-15-keto PGE2	C04671	HMDB0002776
+128	Allantoic acid	C00499	HMDB0001209
+129	N-Arachidonoyl-L-Alanine	-	-
+130	Glycerophospho-N-Arachidonoyl Ethanolamine	-	-
+131	2-Hydroxyadipic acid	C02360	HMDB0000321
+132	2-Hydroxyhexanoic acid	C11377	HMDB0001624
+133	2'-O-methyluridine	-	HMDB0240328
+134	5-Hydroxy-2'-deoxyuridine	-	-
+135	Acetylvaline	-	HMDB0011757
+136	butyrate	C00246	HMDB0000039
+137	Cytidine 5'-monophosphate-N-acetylneuraminic acid£¨CMP-NANA£©	C00128	-
+138	Dimethylmalonic acid	-	HMDB0002001
+139	Gluceptate	-	-
+140	Hydroumbellic acid	-	HMDB0126386
+141	Isohomovanillic acid	-	HMDB0000333
+142	MG(14:0/0:0/0:0)	-	HMDB0011561
+143	Traumatic acid	C16308	HMDB0000933
+144	Phosphatidylethanolamine lyso alkenyl 16:0	-	-
+145	Acetanilide	C07565	HMDB0001250
+146	Cytidine<U+00A0>2',3'-cyclic<U+00A0>monophosphoric<U+00A0>acid	C02354	HMDB0011691
+147	Cytochalasin H	-	-
+148	Glu-Val	-	HMDB0028832
+149	N-Acetyl-5-aminosalicylic<U+00A0>acid	-	HMDB0060602
+150	Ferulic<U+00A0>acid	C01494	HMDB0000954
+151	N-AcetyTryptophan	C03137	-
+152	L-threo-3-Methylaspartate	C03618	-
+153	Phosphatidylethanolamine lyso alkenyl 18:2	-	-
+154	3,5-Dihydroxybenzoic acid	-	HMDB0013677
+155	3-(2-Hydroxyphenyl)propanoic acid	C01198	HMDB0033752
+156	Dihydrocaffeic acid	C10447	HMDB0000423
+157	Tropine	C01456	HMDB0062590
+158	M-toluene acetic acid	-	HMDB0002222
+159	Piperic acid	C04599	HMDB0032613
+160	3-Hydroxy-4-methoxybenzoic acid	-	HMDB0060003
+161	3-Methoxysalicylic Acid	-	HMDB0059713
+162	4,4'-Dihydroxybenzophenone	C14220	-
+163	2,6-Di-tert-butyl-4-(hydroxymethyl)phenol	-	HMDB0032048
+164	Pinolenic acid	-	-
+165	9,10-dihydroxystearic acid	C19622	-
+166	N-Myristoylglycine	-	HMDB0013250
+167	Hydroferulic acid	-	-
+168	(S)-2-Hydroxy-3-phenylpropanoic acid	C05607	-
+169	Ethyl hydrogen malonate	-	HMDB0000576
+170	Deoxycholic acid	C04483	HMDB0000626
+171	Glycine deoxycholic acid	C05464	HMDB0000631
+172	3-Epideoxycholic acid	C20865	HMDB0000438
+173	4-Hydroxybenzoic Acid	C00156	HMDB0000500
+174	N-ethylene glycol neuraminic acid	C03410	HMDB0000833
+175	Ala-Glu	C20958	HMDB0028686
+176	Val-Asn	-	HMDB0029122
+177	Arg-Val	-	HMDB0028722
+178	Val-Asp	-	HMDB0029123
+179	Met-Asp	-	-
+180	Sulfoacetic acid	-	-
+181	¦Á-Hydroxyglutaric Acid (sodium salt)	-	-
+182	Pyrimidine-4-carboxylic acid sodium salt	-	-
+183	Met-Val	-	-
+184	Leu-Tyr	-	-
+185	Ile-Tyr	-	-
+186	Trp-Gly	-	-
+187	3-pyrimidin-2-yl-propionic acid	-	-
+188	2-Hydroxy-3-Methyl Butanoic Acid	-	-
+189	3-Amino-5-hydroxybenzoic acid	C12107	-
+190	2-Methyllactic acid	C21297	-
+191	(R)-2-Hydroxybutyric acid	-	-
+192	Ala-Ser	-	-
+193	Hyp-Thr	-	-
+194	¦Ã-Glu-Met	-	-
+195	(E)-3-(3-hydroxy-4-methoxyphenyl)acrylic acid	C10470	HMDB0000955
+196	L-Tyrosine	C00082	HMDB0000158
+197	L-Citrulline	C00327	HMDB0000904
+198	L-Methionine	C00073	HMDB0000696
+199	L-Phenylalanine	C00079	HMDB0000159
+200	L-Tryptophan	C00078	HMDB0000929
+201	(5-L-Glutamyl)-L-Amino Acid	C03740	HMDB0006248
+202	Phe-Phe	-	HMDB0013302
+203	Serotonin	C00780	HMDB0000259
+204	N-Acetylhistamine	C05135	HMDB0013253
+205	P-Coumaric Acid	C00811	HMDB0002035
+206	6-Hydroxynicotinic Acid	C01020	HMDB0002658
+207	Biotin	C00120	HMDB0000030
+208	2'-Deoxyinosine	C05512	HMDB0000071
+209	7-Methylxanthine	C16353	HMDB0001991
+210	Purine	C15587	HMDB0001366
+211	Thymine	C00178	HMDB0000262
+212	Epinephrine	C00788	HMDB0000068
+213	Trans-Cinnamaldehyde	C00903	HMDB0003441
+214	Cis-Aconitic Acid	C00417	HMDB0000072
+215	N-Acetyl-5-Hydroxytryptamine	C00978	HMDB0001238
+216	Tryptamine	C00398	HMDB0000303
+217	Pyridoxine	C00314	HMDB0000239
+218	Nicotinic Acid	C00253	HMDB0001488
+219	3-Indolebutyric Acid	C11284	HMDB0002096
+220	Methyl Indole-3-Acetate	C20635	HMDB0029738
+221	4-Acetamidobutyric Acid	C02946	HMDB0003681
+222	5-Aminovaleric Acid	C00431	HMDB0003355
+223	Guanidineacetic Acid	C00581	HMDB0000128
+224	L-Dihydroorotic Acid	C00337	HMDB0003349
+225	LPC(0:0/14:0)	-	HMDB0010379
+226	LPC(16:0/0:0)	C04230	HMDB0010382
+227	Methyl-Nicotinate	D04991	HMDB0029806
+228	N-Acetylglycine	-	HMDB0000532
+229	Deoxycytidine	C00881	HMDB0000014
+230	2-Aminoadipic Acid	C00956	HMDB0000510
+231	10-Formyl-Thf	C00234	HMDB0000972
+232	P-Aminobenzoate	C00568	HMDB0001392
+233	LPC(15:0/0:0)	-	HMDB0010381
+234	LPC(0:0/18:2)	-	-
+235	2-Hydroxycinnamic acid	C01772	HMDB0002641
+236	L-Norleucine	C01933	HMDB0001645
+237	6-Dimethylaminopurine	-	HMDB0000473
+238	Phe-Pro	-	HMDB0011177
+239	Ethyl-dodecanoate	D70267	HMDB0033788
+240	L-Tyrosine methyl ester	C03404	HMDB0029217
+241	N-Methylalanine	C02721	HMDB0094692
+242	N-Methyl-L-Glutamate	C01046	HMDB0062660
+243	Phosphocholine	C00588	HMDB0001565
+244	2,4-Dihydroxypteridine	C03212	-
+245	L-Tryptophanamide	C00977	HMDB0013318
+246	Dethiobiotin	C01909	HMDB0003581
+247	1-Hydroxylamino-2-phenylethane	-	-
+248	5'-Deoxyadenosine	C05198	HMDB0001983
+249	Trp-Glu	-	HMDB0029082
+250	Hispidol	C08644	HMDB0033153
+251	Biliverdin	C00500	HMDB0001008
+252	N,-N-diacetyl-O-methylhydroxylamine	D91454	-
+253	Hydroxyquinoline	C19434	-
+254	DL-O-tyrosine	C02057	HMDB0006050
+255	Gly-Trp	-	HMDB0028852
+256	PC(12:0/12:0)	-	-
+257	(R)-(-)-2-phenylglycine	-	-
+258	1-acetylindole	-	-
+259	Mavidin	-	-
+260	PC(16:0/2:0)	-	-
+261	Butenoyl-PAF	-	-
+262	N-Methyl-¦Á-aminoisobutyric acid	-	HMDB0002141
+263	1,3-Dicyclohexylurea	-	-
+264	3-Amino-2-menacarboxylic-acid	-	-
+265	PC(O-16:0/O-1:0)	-	-
+266	Folic-acid	C00504	HMDB0000121
+267	20,26-dihydroxyecdysone	C16500	-
+268	10-deoxyformamycin	C11994	-
+269	Piperidone	C17730	-
+270	(2S,-3S)-3-methylphenylalanine	C20895	-
+271	LPC(0:0/22:4)	-	-
+272	LPC(22:4/0:0)	-	-
+273	LPC(0:0/22:5)	-	-
+274	LPC(22:5/0:0)	-	-
+275	LPC(22:6/0:0)	-	-
+276	LPC(20:1/0:0)	-	HMDB0010391
+277	LPC(20:2/0:0)	-	HMDB0010392
+278	LPC(0:0/20:2)	-	-
+279	LPC(0:0/20:3)	-	-
+280	LPC(20:3/0:0)	-	-
+281	LPC(18:1/0:0)	-	HMDB0010385
+282	LPC(18:2/0:0)	-	HMDB0010386
+283	LPC(0:0/16:0)	-	-
+284	LPC(16:1/0:0)	-	HMDB0010383
+285	Asterina-330	-	-
+286	Carnitine C22:2	-	-
+287	Carnitine C20:1	-	-
+288	Carnitine C20:2	-	-
+289	Carnitine C18:0	-	-
+290	Carnitine C18:2	-	-
+291	Carnitine C18:3	-	-
+292	Carnitine C16:1	-	-
+293	MG(18:0/0:0/0:0)	-	-
+294	Glu-Met	-	HMDB0028825
+295	Met-Glu	-	-
+296	Carnitine C18:1-OH	-	-
+297	Carnitine C14:2:DC	-	-
+298	Carnitine C18-OH	-	-
+299	Caldine	C03375	-
+300	21-Deoxycortisol	C05497	HMDB0004030
+301	Carnitine C16-OH	-	HMDB0013336
+302	PC(O-16:0/0:0)	C13903	-
+303	LPC(O-18:1/0:0)	-	-
+304	Phe-Glu	-	HMDB0028994
+305	Leu-Ala-Val	-	-
+306	Gly-Gly-Phe	-	-
+307	Glu-Glu-Ile	-	-
+308	Leu-Leu-Glu	-	-
+309	Leu-Leu-Gly	-	-
+310	Phe-Val-Asp	-	-
+311	Thr-Val-Leu	-	-
+312	Glu-Val-Phe	-	-
+313	Leu-Leu-Phe	-	-
+314	LPE(15:0/0:0)	-	HMDB0011502
+315	LPC(0:0/15:0)	-	-
+316	LPC(O-16:1/0:0)	-	-
+317	Sphingosyl-phosphocholine	-	-
+318	LPC(0:0/16:1)	-	-
+319	LPC(0:0/18:1)	-	-
+320	LPC(0:0/20:1)	-	-
+321	(E)-Guggulsterone	-	-
+322	2-O-Methylcytosine	C22293	HMDB0004339
+323	3-Amino-4-methylpentanoic-acid	C02486	HMDB0003640
+324	Cytidine 5'-diphosphate	C00112	-
+325	Val-Tyr	-	-
+326	L-Methionine sulfoxide	C02989	HMDB0002005
+327	LPC(13:0/0:0)	-	-
+328	Leu-Phe	D95550	HMDB0013243
+329	Methyl-Vanillate	-	HMDB0240266
+330	Stachydrine	C10172	HMDB0004827
+331	Asp-Tyr	-	HMDB0028765
+332	Glu-Tyr	-	HMDB0028831
+333	Gly-Phe-Phe	-	-
+334	Phe-Leu	-	-
+335	Ser-Leu	-	HMDB0029043
+336	Caffeine	C07481	HMDB0001847
+337	LPE(18:2/0:0)	-	HMDB0011517
+338	Phe-Trp	D95547	HMDB0029006
+339	N-Acetyl-L-phenylalanine	C03519	HMDB0000512
+340	Cyclopentylglycine	-	-
+341	Ser-Ile	-	-
+342	3'-Deoxyadenosine	C08431	-
+343	D-Proline-betaine	C08283	-
+344	1-Methylpiperidine-2-carboxylic acid	-	-
+345	Dehydroascorbic-acid	C05422	HMDB0001264
+346	Phenethylamine	C05332	HMDB0012275
+347	N-(3-Hydroxypropyl)phthalimide	-	-
+348	L-Homophenylalanine	C17235	-
+349	Tyr-OtBu	D70289	-
+350	3-Aminoquinoline	C09183	HMDB0036827
+351	2-Amino-5-methyl-4-phenylthiazole	D95906	-
+352	(RS)-Sakuranetin	C09833	HMDB0030090
+353	3,5-Dimethoxybenzoic acid	-	-
+354	2,2-Dihydroxymethyl-1-azabicyclo[2.2.2]octan-3-one	C75635	-
+355	N-Phenylacetylphenylalanine	-	HMDB0002372
+356	Chrysoeriol	C04293	HMDB0030667
+357	4-Hydroxydebrisoquine	-	HMDB0006468
+358	Inositol 1,3,4-trisphosphate	C01243	HMDB0001143
+359	N-Arachidonic-acid-L-serine	-	-
+360	Indole-3-Acetic Acid	C00954	HMDB0000197
+361	Gly-Lys	-	-
+362	Gly-Gln	D94472	-
+363	N(6),N(6)-Dimethyl-L-lysine	-	-
+364	¦Ã-Glu-Lys	-	-
+365	Thr-Asp	-	-
+366	N-Ethylglycine	C11735	HMDB0041945
+367	3-Guanidinopropionic acid	C03065	HMDB0013222
+368	Glu-Cit	-	-
+369	Glu-Gly	-	HMDB0028819
+370	6-aminonicotinamide	-	-
+371	Tyr-Ser	-	-
+372	Ile-Ser	-	-
+373	Ile-Glu	-	-
+374	Leu-Glu	-	-
+375	Glu-Ile	-	HMDB0028822
+376	Ile-Thr	-	HMDB0028917
+377	Leu-Thr	-	-
+378	Phe-Ala-Ser	-	-
+379	Ser-Phe-Ala	-	-
+380	(2-Hydroxyethyl)phosphonic acid	C06451	-
+381	2'-Deoxyadenosine	C00559	HMDB0000101
+382	Trp-Ser	-	-
+383	Tyr-Pro	-	-
+384	Tyr-Tyr	-	-
+385	Biocytin-(N'-Biotinyl-L-lysine)	C05552	HMDB0003134
+386	Phe-Tyr	-	-
+387	2-amino-6-methylmercaptopurine	-	-
+388	Trp-Val	-	-
+389	Trp-Met	-	-
+390	Trp-Pro	-	-
+391	Leu-Trp	-	-
+392	Ile-Trp	-	-
+393	Phe-Ala-Leu	-	-
+394	Trp-His	-	-
+395	2-Amino-2-methyl-1,3-propanediol	-	-
+396	Cycloleucine	C03969	HMDB0062225
+397	3-Hydroxy-L-phenylalanine	C20807	-
+398	Gln-Gly	-	HMDB0028797
+399	Lys-Gly	-	HMDB0028951
+400	Pro-Asp	-	-
+401	Ser-Glu	-	-
+402	Phe-Ala	-	HMDB0028988
+403	Asn-Hyp	-	-
+404	Leu-Asp	-	-
+405	Pro-Phe	-	HMDB0011179
+406	Thr-Tyr	-	HMDB0029073
+407	Glu-Phe	-	HMDB0029156
+408	Met-Tyr	-	-
+409	Lys-Trp	-	HMDB0028962
+410	2-Butyl-3-(4-hydroxybenzoyl)benzofuran	D87732	-
+411	L-2-Aminoadipate	C00956	HMDB0000510
+412	Quinmerac	C18891	-
+413	Cabergoline	C08187	HMDB0014393
+414	Deacetylvindoline	C01091	-
+415	Methyl reserpate	-	-
+416	11-(Dansylamino)undecanoic acid	-	-
+417	Atrolactic acid	-	HMDB0142137
+418	3-Formyl-2,4-dihydroxy-6-methylbenzoic acid	-	-
+419	4-Chloro-5-sulfamoylanthranilic acid	-	HMDB0060761
+420	Antimycin A1	C11339	-
+421	Benzamide,N-[2-(dimethylamino)ethyl]-N-methyl-4-[[[[4-[4-(4-morpholinyl)-7-(2,2,2-trifluoroethyl)-7H-pyrrolo[2,3-d]pyrimidin-2-yl]phenyl]amino]carbonyl]amino]-	-	-
+422	Benzamidine	C01784	-
+423	Buprenorphine	C08007	HMDB0015057
+424	Chlorambucil	C06900	HMDB0014436
+425	Dichlorprop	C11020	-
+426	Dinoterb	C18671	-
+427	Fluometuron	C18853	-
+428	Halofenozide	C18791	-
+429	Oxyphenbutazone	D08324	-
+430	Quizalofop	C18763	-
+431	rac-2-Despiperidyl-2-aminorepaglinide	-	HMDB0061005
+432	Thonzylamine	-	HMDB0240222
+433	Arctigenin	C10545	HMDB0030087
+434	(10E,15Z)-9,12,13-Trihydroxyoctadeca-10,15-dienoic acid	-	HMDB0035919
+435	[(1S,2S,4R,6S,7R,8R,9R,10R,11S,16R,18R)-6-(Furan-3-yl)-9-hydroxy-18-(2-hydroxy-3-methylbutanoyl)oxy-1,7,11,15,15-pentamethyl-14-oxo-3-oxapentacyclo[8.8.0.02,4.02,7.011,16]octadec-12-en-8-yl] 2-acetyloxy-3-methylpentanoate	-	-
+436	1-(1Z-Octadecenyl)-sn-glycero-3-phosphocholine	-	HMDB0013122
+437	12-epi-LTB4	-	-
+438	13,14-Dihydro-15-ketoprostaglandin A2	-	-
+439	1-O-Hexadecyl-2-O-(2E-butenoyl)-sn-glyceryl-3-phosphocholine	-	-
+440	2,3-dinor Fluprostenol	-	-
+441	2-Hydroxyundecanoate	-	HMDB0059736
+442	3-Hydroxybutyrylcarnitine	-	HMDB0062735
+443	6b-Angeloyl-3b,8b,9b-trihydroxy-7(11)-eremophilen-12,8-olide	-	HMDB0041228
+444	8-Amino-7-oxononanoic acid	C01092	HMDB0037790
+445	7-Sulfocholic acid	-	HMDB0002421
+446	Acetylvalerenolic acid	-	HMDB0035687
+447	Anthranoyllycoctonine	C08659	-
+448	Arbutin	C06186	HMDB0029943
+449	Bufalin	C16922	-
+450	Cavipetin C	-	HMDB0030366
+451	Diosgenin	C08898	-
+452	Fasciculic acid D	-	HMDB0036440
+453	Glycerophospho-N-Oleoyl Ethanolamine	-	-
+454	Ipconazole	C18471	-
+455	Jamaicamide B	C18213	-
+456	Jamaicamide C	C18214	-
+457	Norethindrone	C05028	HMDB0014855
+458	Prostaglandin D2 methyl ester	-	-
+459	Prostaglandin E2 p-benzamidophenyl ester	-	-
+460	Rimexolone	-	HMDB0015033
+461	Withaferin A	C08841	-
+462	Wortmannin	-	-
+463	Arg-Phe-Arg	-	-
+464	Gly-Phe-Ser	-	-
+465	Isoleucyl-Tyrosine	-	HMDB0028919
+466	Leu-Ile-Ile	-	-
+467	Leu-Val-Leu	-	-
+468	Oleoyl Ethyl Amide	-	-
+469	R-1 Methanandamide Phosphate	-	-
+470	Ramiprilat	-	HMDB0060579
+471	Trandolaprilat	C21515	HMDB0060583
+472	Trp-Val-Arg	-	-
+473	Tyr-Met	-	-
+474	Val-Leu-Lys	-	-
+475	Dicyclohexylamine	C14686	-
+476	2-Acetamido-2-deoxy-3-O-(beta-D-galactopyranosyl)-D-glucopyranose	C06372	-
+477	3-Hydroxybenzaldehyde	C03067	-
+478	4-(2-Amino-3-hydroxyphenyl)-2,4-dioxobutanoic acid	C05645	HMDB0004083
+479	Adlupone	-	HMDB0032111
+480	Carbomycin	-	-
+481	Droperidol	D00308	HMDB0014593
+482	Marimastat	D03795	HMDB0014924
+483	Triptolide Analog	-	-
+484	3-Quinolinecarboxamide,6-(2-furanyl)-1,4-dihydro-8-methoxy-4-oxo-1-pentyl-N-tricyclo[3.3.1.1(3,7)]dec-1-yl-	-	-
+485	4-Hydroxytacrine	-	-
+486	5-Methyltetrahydrofolic acid	-	HMDB0001396
+487	desmethylclomipramine	-	HMDB0060947
+488	Desmethylolanzapine	-	HMDB0060959
+489	Dodecahydro-8''-hydroxy-1'',2'(5'h)-furan-5',5''-[5h-1,4a](methanoxymethano)naphthalen]-2,9''-dione	-	-
+490	Ellipticine	C09154	-
+491	Mangostinone	-	HMDB0041292
+492	Mepiprazole	-	-
+493	Methanone,[1-(5-fluoropentyl)-6-hydroxy-1H-indol-3-yl]-1-naphthalenyl-	-	-
+494	N-Phenyl-4-(quinolin-3-ylmethyl)piperidine-1-carboxamide	-	-
+495	3-[5,7-dihydroxy-2-(4-hydroxy-3-methoxyphenyl)-4-oxo-3,4-dihydro-2H-1-benzopyran-8-yl]-5,7-dihydroxy-2-(4-hydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-4-one	-	HMDB0129219
+496	7-Amino-4-methyl-2H-1-benzopyran-2-one arachidonoyl amide	-	-
+497	Deoxysappanone B 7,3'-dimethyl ether	-	-
+498	N-(4-Methyl-2-oxochromen-7-yl)icosa-5,8,11,14-tetraenamide	-	-
+499	Nanafrocin	C10377	-
+500	Ononin	C10509	HMDB0033987
+501	Sericetin	-	-
+502	16alpha,17-Isopropylidenedioxy-6alpha-methylprogesterone	C15280	-
+503	1-Dehydro-12-gingerdione	-	-
+504	2,2',3-Trihydroxybiphenyl	C03569	-
+505	2,6-Dichlorophenolindophenol sodium salt	C03822	-
+506	2-Pyrrolidinone,5-((1E,3R)-4,4-difluoro-3-hydroxy-4-phenyl-1-buten-1-yl)-1-(6-(2H-tetrazol-5-yl)hexyl)-,(5R)-	-	-
+507	3beta,5beta-Ketodiol	C16493	-
+508	3-Geranylgeranylindole	C20525	-
+509	6-Methyl-3-[[methyl-[2-[methyl-[(1-phenylindol-3-yl)methyl]amino]ethyl]amino]methyl]chromen-4-one	-	-
+510	7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one	C05453	HMDB0006887
+511	Ala-Lys-Gln	-	-
+512	Arg-Asn-Ile-Val-Ala	-	-
+513	Asn-Tyr-Glu-Asp	-	-
+514	Asp-Asn-Phe-Lys-Ala	-	-
+515	Asp-Phe-Glu-Lys	-	-
+516	Avideoxycholate	C20867	-
+517	Carpaine	C10135	HMDB0030272
+518	Gln-His-Leu-Phe-Gly	-	-
+519	Gln-Leu-Leu	-	-
+520	Gln-Val-Ile-Asp	-	-
+521	Gln-Arg	-	HMDB0028791
+522	Glu-Arg-Phe-Asp	-	-
+523	Glu-Phe-Tyr-Lys	-	-
+524	Glu-Ser-Gln-Arg-Gln	-	-
+525	Gly-Leu-Phe	-	-
+526	Gly-Phe-Thr	-	-
+527	Gomisin N	C10555	-
+528	His-Gln-Val-Lys	-	-
+529	His-Leu-Ile-Arg	-	-
+530	Ile-Asp-Phe-Arg	-	-
+531	Ile-Phe-Val-Lys	-	-
+532	L-beta-Phenylalanine	C20487	-
+533	Leu-Ala-Pro-Leu-Glu	-	-
+534	Leu-Asp-Gln-Gln-Val	-	-
+535	Leu-Gln-Ile-Arg	-	-
+536	Leu-Leu-Glu-Ser-Asp	-	-
+537	Leu-Phe-Met	-	-
+538	Leu-Ser-Glu-Lys	-	-
+539	Leu-Ser-Leu-Glu-Glu	-	-
+540	Leu-Val-Val-Val-Gly	-	-
+541	Lys-Ala-Leu-Glu	-	-
+542	Lys-Tyr-Val-Lys	-	-
+543	Lys-Val-Asn	-	-
+544	Magnoshinin	C10658	-
+545	NBD-FTY720 phenoxy	-	-
+546	Phe-Gln-Asp-Arg	-	-
+547	Phe-Glu-Lys-Ala-Ala	-	-
+548	Phe-Phe-Val	-	-
+549	Phe-Val-Arg-Arg	-	-
+550	Pro-Glu-Leu-Ala-Lys	-	-
+551	Ser-Ile-Ser	-	-
+552	Ser-Lys-Val-Glu	-	-
+553	Ser-Tyr-Lys-Asp	-	-
+554	Ser-Nap-OH	-	-
+555	Stigmatellin Y	C12150	-
+556	Terpendole C	C20546	-
+557	Thr-Ala-Phe-Lys	-	-
+558	Thr-Asn-Ile-Asp	-	-
+559	Thr-Ile-Ser-Glu	-	-
+560	Thr-Ser-Phe	-	-
+561	Thr-Tyr-Arg-Lys	-	-
+562	Thr-Tyr-Leu-Glu	-	-
+563	Thr-Tyr-Phe-Asn-Lys	-	-
+564	Thr-Val-Glu	-	-
+565	Thr-Val-Met	-	-
+566	Thr-Val-Thr	-	-
+567	Trp-Gln-Leu	-	-
+568	Trp-Leu-Met	-	-
+569	Tyr-Gln-Thr-Lys	-	-
+570	Tyr-Glu-Gln-Asp	-	-
+571	Tyr-Ile-Val-Glu	-	-
+572	Tyr-Leu-Ala-Lys	-	-
+573	Val-Gly-Asp-Ile-Val	-	-
+574	Val-Ile-Leu-Asp	-	-
+575	Val-Leu-Ala-Leu-Leu	-	-
+576	Val-HoPhe-OH	-	-
+577	2-(hydroxymethyl)-5-(6-methylsulfanylpurin-9-yl)oxolane-3,4-diol	-	-
+578	(E)-2-aminooctadec-4-ene-1,3-diol	-	-
+579	2-hydroxyquinoline	C06338	-
+580	ESTRA-4,9-DIENE-3,17-DIONE	-	-
+581	Phenol	C00146	HMDB0000228

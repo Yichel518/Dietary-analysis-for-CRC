@@ -1,0 +1,111 @@
+HMDBID	Name
+HMDB0000955	(E)-3-(3-hydroxy-4-methoxyphenyl)acrylic acid
+-	"(Z)-5-[(1R,2R,3S,5S)-3,5-dihydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]cyclopentyl]pent-3-enoic acid"
+HMDB0003871	(¡À)13-HpODE
+-	"1,2-Dihexanoyl-sn-glycero-3-phosphocholine"
+HMDB0061691	1-Heptadecanoyl-sn-glycero-3-phosphoethanolamine
+-	1-Naphthylamine
+-	12-Hydroxyjasmonic acid
+-	15(R)-Prostaglandin E1
+HMDB0244751	2-(2-Amino-3-methoxyphenyl)-4H-1-benzopyran-4-one
+-	2-Aminopurine
+-	2-Hexadecanoylthio-1-ethylphosphorylcholine
+HMDB0000008	2-Hydroxybutanoic Acid
+HMDB0000669	2-hydroxyphenylacetic acid
+HMDB0000011	3-Hydroxybutanoic acid
+HMDB0001713	3-Hydroxycinnamic acid
+HMDB0000387	3-Hydroxydodecanoic acid
+HMDB0001352	3-Hydroxypyruvic acid
+HMDB0000734	3-Indoleacrylic acid
+HMDB0002096	3-Indolebutyric Acid
+HMDB0002302	3-Indolepropionic Acid
+HMDB0000978	"4-(2-Aminophenyl)-2,4-dioxobutanoic acid"
+HMDB0000118	4-Hydroxy-3-methoxyphenylacetic acid
+HMDB0004815	4-Hydroxy-3-methylbenzoic acid
+HMDB0000017	4-Pyridoxic Acid
+HMDB0036382	6-Deoxyfagomine
+HMDB0033860	"7,8-Dihydroxy-3-(4-hydroxyphenyl)benzopyran-4-one"
+HMDB0004701	9(10)-EpOME
+-	Acylated phloroglucinol
+HMDB0000050	Adenosine
+-	Ala-Met-Gly-Ile-Met
+HMDB0003012	Aniline
+HMDB0000784	Azelaic Acid
+HMDB0001587	Benzoylformic Acid
+-	Carnitine C10:1
+-	Carnitine C14-OH
+-	Carnitine C14:2
+-	Carnitine C14:2-OH
+-	Carnitine C16:2
+-	Carnitine C18:2
+-	Carnitine C5:0
+HMDB0000705	Carnitine C6:0
+-	Carnitine C8:0
+HMDB0000378	Carnitine-2-methyl-C4
+HMDB0000653	Cholesterol sulfate
+HMDB0012199	Chorismic acid
+HMDB0030670	Chrysophanol
+HMDB0032136	Creosol
+-	D-Proline-betaine
+HMDB0001068	D-Sedoheptuiose 7-Phosphate
+HMDB0000318	"DL-3,4-Dihydroxyphenyl glycol"
+-	DL-Stachydrine
+HMDB0000622	Ethylmalonate
+HMDB0000954	Ferulic<U+00A0>acid
+HMDB0000133	Guanosine
+HMDB0128062	Hesperetin dihydrochalcone
+-	His-Lys-Ser-Glu
+HMDB0033153	Hispidol
+HMDB0011719	Homovanillic Acid sulfate (sodium salt)
+HMDB0000157	Hypoxanthine
+HMDB0003040	Hypoxanthine-9-¦Â-D-Arabinofuranoside
+-	Icacine
+-	"Icosa-5,14-dienoic acid"
+-	Ile-Glu-Val-Asp-Leu
+HMDB0011753	Iminodiacetic acid
+HMDB0000195	Inosine
+HMDB0304395	Isochorismic acid
+HMDB0000193	Isocitric<U+00A0>acid
+HMDB0000715	Kynurenic Acid
+HMDB0000192	L-Cystine
+HMDB0000684	L-kynurenine
+-	LPC(0:0/15:0)
+HMDB0010381	LPC(15:0/0:0)
+-	LPC(16:2/0:0)
+-	LPC(22:2/0:0)
+-	LPE(0:0/18:2)
+-	LPE(0:0/20:2)
+-	LPE(0:0/20:5)
+-	LPE(0:0/22:5)
+-	LPE(20:2/0:0)
+-	LPE(20:5/0:0)
+-	LPE(22:5/0:0)
+HMDB0033631	Lactapiperanol D
+-	Linoleylethanolamide
+-	Lys-Gln-Asp-Lys
+HMDB0000691	Malonic acid
+-	Multifidol
+-	N-(2-formylphenyl)formamide
+-	N-(2-hydroxyethyl)-3-pyridinecarboxamide
+HMDB0000783	N-Propionylglycine
+HMDB0003357	N-acetylornithine
+-	N-hydroxy-L-tryptophan
+HMDB0001199	N2-Succinyl-L-ornithine
+HMDB0011185	O-Phospho-L-threonine
+HMDB0000224	O-Phosphorylethanolamine
+HMDB0000210	Pantothenate
+HMDB0014444	Penciclovir
+HMDB0000245	Porphobilinogen
+HMDB0062521	"Pregn-5-ene-3,20-dione"
+-	Pregnanetriol
+HMDB0000842	Quinoline-2-carboxylic acid
+HMDB0003219	Sedoheptulose
+-	Silicristin
+HMDB0004827	Stachydrine
+HMDB0000893	Subericacid
+-	Tyr-Ser
+HMDB0000288	Uridine 5-Monophosphate
+-	Val-Ala
+HMDB0000292	Xanthine
+HMDB0028815	alpha-Glutamylaspartic acid
+-	p-Coumaryl alcohol 4-O-glucoside

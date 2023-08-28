@@ -1,0 +1,99 @@
+HMDBID	KEGGID	Name
+-	C16505	(10S)-Juvenile hormone III diol
+-	-	"(10S,13R)-10,13-dimethyl-17-[(Z,2R)-5-propan-2-ylhept-5-en-2-yl]-1,2,4,5,6,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one"
+-	-	"1,3-Dicyclohexylurea"
+-	-	"1-(1,2-Dihexanoylphosphatidyl)inositol-4-phosphate"
+-	-	1-Aminocyclohexanecarboxylic acid
+-	-	1-Palmitoyl-2-azelaoylphosphatidylcholine
+HMDB0012533	C18075	11beta-Hydroxytestosterone
+-	-	"12,13-DiHOME"
+HMDB0061663	-	12-hydroxyheptadecanoic acid
+HMDB0000352	C05139	16alpha-Hydroxydehydroepiandrosterone
+HMDB0006768	C05297	19-Aldoandrostenedione
+HMDB0029659	C03663	"2',4'-Dihydroxyacetophenone"
+-	C16498	"2,22-Dideoxy-3-dehydroecdysone"
+HMDB0029649	-	"2,4,6-Trihydroxybenzoic acid"
+HMDB0013816	-	"2,4-Di-tert-butylphenol"
+HMDB0032048	-	"2,6-Di-tert-butyl-4-(hydroxymethyl)phenol"
+-	C06338	2-hydroxyquinoline
+-	C14043	"2H-Pyran-2-one,6-(2-(1,2,6,7,8,8a-hexahydro-2-methyl-1-naphthalenyl)ethyl)tetrahydro-4-hydroxy-,(1S-(1-alpha(4S*,6S*),2-alpha,8a-alpha))-"
+HMDB0032606	-	3-Methoxybenzoic acid
+HMDB0004813	-	3-Methyluridine
+-	C14450	4-Chloroaniline
+-	C21168	4-hydroxyisophthalic acid
+HMDB0013825	C14205	4-tert-Octylphenol
+HMDB0029191	-	"5'-(3',4'-Dihydroxyphenyl)-gamma-valerolactone sulfate"
+-	C14630	"9alpha-Fluoro-11beta-hydroxy-6alpha-methylpregn-4-ene-3,20-dione"
+HMDB0035687	-	Acetylvalerenolic acid
+-	-	Aflatoxin B2
+-	-	Ala-Leu-Leu-Leu-Trp
+-	-	Ala-Phe-Gln-Lys
+HMDB0003818	C04295	Androstenediol
+-	-	Arg-Tyr-Asn-Glu
+-	-	Asn-His-Lys-Asp
+HMDB0028765	-	Asp-Tyr
+HMDB0030736	-	Capsianoside IV
+HMDB0030667	C04293	Chrysoeriol
+-	C08672	Cuauchichicine
+-	-	DL-threo-3-isopropylmalic acid
+HMDB0033249	C06559	Deethylatrazine
+HMDB0060959	-	Desmethylolanzapine
+HMDB0000579	-	Deuteroporphyrin IX
+HMDB0000423	-	Dihydrocaffeic acid
+-	C14300	Dipentyl phthalate
+-	C09167	Ergosine
+-	C18644	Ethylazine
+-	C14268	Fenpiclonil
+HMDB0015178	C07661	Gatifloxacin
+HMDB0028804	-	Gln-Phe
+HMDB0028831	-	Glu-Tyr
+HMDB0028852	-	Gly-Trp
+HMDB0000672	C19615	Hexadecanedioic acid
+-	-	His-Gln-Tyr-Arg
+-	-	His-Gly-Lys-Lys-Val
+-	C19434	Hydroxyquinoline
+HMDB0000157	C00262	Hypoxanthine
+-	D01750	Idebenone
+-	-	Ile-Glu-Leu-Lys
+-	-	Ile-Trp
+HMDB0000738	C00463	Indole
+HMDB0000671	C02043	Indole-3-lactic acid
+-	-	Isovalerophenone
+HMDB0000192	C00491	L-Cystine
+HMDB0000929	C00078	L-Tryptophan
+-	-	LPC(13:0/0:0)
+-	-	Leu-Ile-Val-Asp-Arg
+-	-	Leu-Trp
+HMDB0002222	-	M-toluene acetic acid
+HMDB0032572	-	Methylparaben
+-	C11086	Molinate
+HMDB0001238	C00978	N-Acetyl-5-Hydroxytryptamine
+HMDB0060602	-	N-Acetyl-5-aminosalicylic<U+00A0>acid
+HMDB0041943	-	N-Acetyldopamine
+HMDB0015447	-	Penbutolol
+-	-	Phe-Leu-Asp
+HMDB0034171	C16074	Phenylacetonitrile
+HMDB0030564	C10275	Polydatin
+-	-	Pro-Phe-Val
+-	-	Pro-Trp
+-	-	Prostaglandin E2 p-benzamidophenyl ester
+HMDB0015022	C08233	Risedronic acid
+-	-	Ser-Ala-Val-Glu
+HMDB0034504	-	Sericoside
+-	-	Tetramethylthiuram<U+00A0>disulfide
+-	-	Thr-Arg-Glu-Glu-Lys
+-	-	Thr-Glu
+-	-	Thr-His-Tyr-Arg
+HMDB0003441	C00903	Trans-Cinnamaldehyde
+HMDB0029082	-	Trp-Glu
+-	-	Tyr-Ile-Leu
+-	-	Tyr-Phe-Glu-Lys
+-	-	Tyr-Phe-Thr-Lys
+-	C12023	Undecylprodigiosin
+-	-	Val-Ile-Asp-Lys
+-	-	Val-Ile-Lys-Asp
+HMDB0029138	-	Val-Trp
+-	-	Val-Tyr-Ser-Lys
+-	C06544	Veratridine
+HMDB0040568	-	"[6]-Gingerdiol 3,5-diacetate"
+HMDB0001858	C01468	p-Cresol

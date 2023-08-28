@@ -1,0 +1,7 @@
+"No.","ID","Name","Match status","Pvalue","Metabolite ID","Metabolites","Sig. Metabolite ID","Sig. Metabolites"
+1,"ko00623","Toluene degradation","2 in 37","1.31e-03","C21168; C01468","4-hydroxyisophthalicacid; p-Cresol","C21168; C01468","4-hydroxyisophthalicacid; p-Cresol"
+2,"ko00333","Prodigiosin biosynthesis","1 in 18","2.82e-02","C12023","Undecylprodigiosin","C12023","Undecylprodigiosin"
+3,"ko00643","Styrene degradation","1 in 22","3.44e-02","C16074","Phenylacetonitrile","C16074","Phenylacetonitrile"
+4,"ko00460","Cyanoamino acid metabolism","1 in 26","4.05e-02","C16074","Phenylacetonitrile","C16074","Phenylacetonitrile"
+5,"ko00400","Phenylalanine, tyrosine and tryptophan biosynthesis","1 in 33","0.051","C00463","Indole","C00463","Indole"
+6,"ko00380","Tryptophan metabolism","1 in 49","0.075","C00463","Indole","C00463","Indole"

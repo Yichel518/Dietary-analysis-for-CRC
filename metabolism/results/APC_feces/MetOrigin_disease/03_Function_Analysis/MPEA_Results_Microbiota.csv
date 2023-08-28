@@ -1,0 +1,7 @@
+"No.","ID","Name","Match status","Pvalue","Metabolite ID","Metabolites","Sig. Metabolite ID","Sig. Metabolites"
+1,"ko00780","Biotin metabolism","1 in 21","3.28e-02","C01909","Dethiobiotin","C01909","Dethiobiotin"
+2,"ko00440","Phosphonate and phosphinate metabolism","1 in 31","4.81e-02","C06451","(2-Hydroxyethyl)phosphonicacid","C06451","(2-Hydroxyethyl)phosphonicacid"
+3,"ko00623","Toluene degradation","1 in 37","0.057","C01468","p-Cresol","C01468","p-Cresol"
+4,"ko00998","Biosynthesis of various secondary metabolites - part 2","1 in 47","0.072","C06451","(2-Hydroxyethyl)phosphonicacid","C06451","(2-Hydroxyethyl)phosphonicacid"
+5,"ko00350","Tyrosine metabolism","1 in 52","0.08","C05593","3-hydroxyphenylaceticacid","C05593","3-hydroxyphenylaceticacid"
+6,"ko00627","Aminobenzoate degradation","1 in 62","0.094","C01984","MandelicAcid","C01984","MandelicAcid"

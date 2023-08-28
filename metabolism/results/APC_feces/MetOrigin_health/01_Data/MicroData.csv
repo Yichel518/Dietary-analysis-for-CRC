@@ -1,0 +1,703 @@
+"kingdom","phylum","class","order","family","genus","species","S1","S2","S3","S4","S5","S6","S7","S8","S9","S10","S11","S12","S13","S14","S15","S16","S17","S18","S19","S20","S21","S22","S23","S24","S25","S26","S27","S28","S29","S30"
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","uncultured bacterium",0,1,0,155,0,9735,724,22,779,1,823,1892,209,1914,2456,2986,144,1,32,85,2,454,27,0,1,0,0,1640,2171,536
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","uncultured bacterium",1,0,5113,423,1063,0,0,3,814,1,0,0,0,928,0,302,0,0,85,734,1,955,110,3,31,0,0,2,1740,350
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-004","uncultured bacterium",0,0,3,0,0,0,12,0,1,1,20,31,10,0,7,0,1,9,14,16,1,7,124,0,36,61,0,44,0,15
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","Others",23,0,0,1,2,16,101,137,42,65,6,0,26,3,102,0,0,14,7,194,12,31,12,206,41,1,48,6,27,21
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",3,36,13,1,0,27,3,0,0,0,34,135,3,0,38,52,3,12,1,0,0,15,4,2,4,6,1,0,0,4
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospira","uncultured bacterium",0,61,19,5,35,8,503,3,33,347,13,0,207,6,4,1,0,16,0,0,0,13,15,4,4,1,0,7,0,8
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Butyricicoccus","uncultured bacterium",4,13,6,1,4,10,34,1,36,91,59,45,92,7,26,8,9,45,141,102,7,16,107,128,45,54,143,130,150,42
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Alloprevotella","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Coprococcus 1","uncultured bacterium",0,2,9,5,4,7,12,1,0,24,0,0,25,15,16,14,8,2,20,8,0,8,23,4,26,18,31,0,17,5
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Oscillibacter","uncultured bacterium",15,11,30,0,0,2,0,12,0,0,71,43,0,7,15,1,0,18,2,0,0,0,11,0,7,0,3,6,6,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",4,0,0,0,0,0,0,0,0,0,2,99,2,0,4,1,0,57,0,1,0,1,29,0,39,0,0,0,1,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Acidaminococcaceae","Phascolarctobacterium","Others",112,30,234,1,174,2727,1364,4,129,0,524,3,356,628,0,16,0,576,856,1451,0,86,2731,440,589,1,482,1981,969,67
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Alloprevotella","uncultured bacterium",0,0,0,0,0,0,0,0,111,0,0,1,0,0,0,0,0,0,1523,0,0,0,0,0,0,0,0,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,28,0,0,0,0,0,0,1,32,0,0,1,0,0,0,1,155,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio","uncultured bacterium",0,30,0,0,0,77,1,0,13,0,53,0,0,0,10,0,7,1,29,0,2,0,0,0,1,46,0,358,0,108
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Tyzzerella 3","uncultured bacterium",12,2,0,0,0,4,0,14,2,0,22,0,0,0,3,0,0,8,1,0,4,0,0,17,5,0,0,16,61,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Flavonifractor","uncultured bacterium",8,3,38,1,1,4,4,6,0,9,23,67,3,16,1,0,2,18,2,3,12,1,7,0,12,3,1,35,60,6
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Alloprevotella","uncultured bacterium",0,0,0,1358,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,594,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-005","Others",1,10,0,0,0,18,0,0,5,0,0,46,10,0,38,16,3,2,2,8,0,11,4,0,3,3,0,0,0,21
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Sutterella","Others",0,0,0,0,0,43,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,84,0
+"Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Oceanobacillus","Others",0,0,0,0,0,8,10,62,22,5,3,13,20,7,13,0,0,23,16,37,38,10,22,83,39,28,37,42,28,29
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",7243,185,4443,53,2,314,104,1028,47,191,98,123,4,62,36,2499,1,55,15,0,160,0,113,8,44,10,1334,166,0,4
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megasphaera","uncultured bacterium",179,0,0,0,0,0,0,1,277,0,376,0,0,1,0,19,0,0,208,0,0,275,1,0,0,0,0,0,0,118
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","Others",0,0,9,0,0,0,0,0,12,61,0,0,0,1,0,3,18,0,0,0,10,0,0,0,1,0,0,0,0,3
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 1","Others",0,1,0,7,2,9,0,2,4,0,42,80,38,0,57,0,10,0,2,19,0,90,27,0,0,11,13,0,0,6
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","uncultured","uncultured bacterium",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 5","uncultured organism",2,2,0,0,2,0,14,16,0,34,0,37,37,7,0,0,0,0,0,64,36,23,56,31,12,0,20,25,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Negativibacillus","uncultured bacterium",0,0,0,0,0,0,91,0,5,0,0,0,0,0,9,0,0,0,31,44,0,0,61,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Sarcina","uncultured bacterium",0,0,0,0,0,0,0,0,0,311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Acidaminococcaceae","Phascolarctobacterium","Others",0,0,237,14,0,14,0,0,0,0,0,0,0,0,0,66,0,0,3,0,0,0,4,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriales Incertae Sedis","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,2,0,2,0,41,0,14,0,0,0,1,2,0,16,13,0,0,0,0,0,3,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,1,4,1,1,2,0,1,42,0,0,5,3,0,20,23,19,1,7,10,0,30,21,8,112,19,8
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Peptostreptococcaceae","Romboutsia","uncultured bacterium",7,63,33,276,124,26,3,18,538,74,87,73,219,32,21,46,8,33,276,143,446,149,170,63,262,965,371,603,44,226
+"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio","Others",1,0,0,0,0,0,0,0,0,0,0,27,0,0,0,162,0,0,54,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Verrucomicrobia","Verrucomicrobiae","Verrucomicrobiales","Akkermansiaceae","Akkermansia","uncultured bacterium",0,20,0,0,0,17,5,1,0,0,46,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-005","Others",0,0,0,2,1,14,0,0,0,0,0,0,13,0,3,2,0,0,0,14,0,2,4,0,0,11,0,0,0,9
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Paraprevotella","uncultured bacterium",0,0,0,4,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,18,59,0,0,6,0,26,126,1
+"Bacteria","Fusobacteria","Fusobacteriia","Fusobacteriales","Fusobacteriaceae","Cetobacterium","uncultured bacterium",0,0,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","uncultured bacterium",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","Others",0,3,0,0,0,16,2,33,8,27,11,41,4,10,1,0,0,0,10,0,1,0,0,0,0,0,1,1,9,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 6","uncultured bacterium",0,1,0,0,0,0,16,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0,8,0,0,3,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","UBA1819","uncultured organism",10,0,17,0,0,3,7,4,0,3,27,57,1,4,17,0,0,5,1,8,0,3,9,2,8,3,2,12,6,4
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","CAG-352","uncultured bacterium",0,0,0,0,0,1,0,1,2,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Escherichia-Shigella","Others",111,6,11,3,199,67,114,1212,46,91,22,187,22,153,168,7,16,6,5,27,1216,24,27,13,6,329,2,183,16,1478
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Rikenellaceae RC9 gut group","uncultured bacterium",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Sutterella","Others",0,0,0,0,0,0,0,0,0,0,0,200,0,39,16,1,0,0,2,0,0,98,15,0,4,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,296,0,0,0,0,0,0,0,159,0,0,133,0,0,0,0,0,0,81,0,0,0,0,0
+"Bacteria","Firmicutes","Erysipelotrichia","Erysipelotrichales","Erysipelotrichaceae","Turicibacter","uncultured bacterium",16,1,0,0,11,3,4,1,11,5,6,7,5,0,15,1,4,5,4,3,20,7,1,2,7,82,101,0,1,17
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","uncultured bacterium",0,1,0,5,0,3,13,0,0,0,24,0,12,0,12,9,12,12,0,15,0,4,82,0,13,16,0,0,3,5
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,3,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,58,0,0,0,0,0,0,38,0,0,1,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Butyricimonas","uncultured bacterium",7,0,1,0,0,0,0,0,0,0,51,0,1,0,15,0,12,15,0,0,0,10,12,0,18,2,0,1,40,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnoclostridium","Others",10,0,51,0,0,0,4,78,1,68,14,37,2,3,0,1,0,6,0,0,1,2,1,3,7,1,14,20,15,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 9","Others",0,10,0,5,1,0,4,0,3,0,0,0,0,19,0,7,3,0,0,1,0,1,3,0,2,0,1,0,9,3
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Barnesiellaceae","Barnesiella","uncultured bacterium",0,30,274,33,9,38,262,1,0,0,0,1,0,0,142,244,0,146,2,19,0,233,168,0,116,0,16,12,11,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","uncultured Alistipes sp.",225,0,85,14,0,257,320,3,3,96,159,420,108,38,522,392,7,576,12,81,0,513,203,13,361,2,93,0,1,23
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",0,0,1,0,0,20,0,1,0,0,8,48,0,1,10,1,6,8,0,9,0,1,62,1,2,7,0,0,9,6
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 2","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae NK3B31 group","Others",0,0,0,0,1,0,0,0,5,0,0,1,0,0,0,509,0,0,88,0,0,181,70,0,0,0,0,0,266,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 6","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Roseburia","Others",0,0,0,0,0,1,4,0,0,0,0,0,0,0,10,0,0,2,0,2,0,4,12,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","uncultured bacterium",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","Others",0,10,98,30,16,14,1099,3,13,0,24,40,15,23,311,85,6,511,0,15,0,112,62,2,304,16,59,56,87,88
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Senegalimassilia","uncultured bacterium",0,0,0,2,0,12,0,0,27,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,227
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",6,2,10,0,0,3,3,6,1,6,3,117,12,0,7,2,3,17,0,0,1,0,0,0,21,0,0,1,118,2
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",6,5,3,0,2,2,23,0,0,18,30,8,2,0,1,2,2,20,0,0,0,3,0,0,10,1,0,6,3,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospira","uncultured bacterium",98,0,0,54,1,33,2,3,223,4,14,44,18,0,35,33,17,43,2,7,0,64,3,78,10,3,0,0,1,13
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 2","uncultured bacterium",0,0,0,0,0,0,0,0,71,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Others","Others",0,0,0,0,0,5,0,0,0,0,0,0,0,0,18,0,0,7,2,0,0,0,0,0,5,1,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Veillonella","Others",138,0,12,7,5,4,0,31,16,422,33,0,7,11,0,1,0,2,4,2,28,2,0,32,22,1,233,10,25,13
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Family XIII UCG-001","uncultured bacterium",0,0,0,0,0,0,8,1,0,0,3,3,5,0,17,4,0,23,0,0,1,10,0,0,14,0,0,2,0,0
+"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","uncultured","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Oscillospira","uncultured bacterium",0,0,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","uncultured organism","uncultured organism",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 1","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","Others",0,1,0,0,0,1,0,0,0,2,0,10,0,0,0,0,0,10,186,2,0,0,1,0,9,0,0,0,0,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megamonas","uncultured bacterium",0,1118,3,377,0,1,2,10,3642,1,127,2,830,1139,0,0,32,0,3867,765,4,150,1125,1,56,1,1,0,3,1012
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","uncultured bacterium","uncultured bacterium",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Slackia","Others",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,17
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","Others",0,0,0,0,0,0,1,0,0,0,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,11,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 9","Others",4,2,5,0,0,0,2,11,0,8,1,2,1,1,0,8,0,2,1,4,0,2,5,2,2,4,0,3,10,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae UCG-001","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,546,0,0,0,56,0,0,0,0,0,0,0,0,0,0,65
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megasphaera","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,703,0,0,0,0,0,0,0,0,0,0,0,0,189,0,0,0,0,51
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,307,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae NK4A214 group","Others",0,0,0,0,0,20,0,0,0,0,0,0,2,0,11,0,0,0,0,0,0,4,0,0,0,4,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Sutterella","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae Ga6A1 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Anaerostipes","uncultured bacterium",119,8,19,11,23,92,1125,275,26,702,66,43,548,73,191,6,0,589,166,35,174,140,135,1028,363,673,864,1578,1854,103
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Eggerthella","uncultured bacterium",1,0,0,0,0,0,2,259,0,8,4,8,1,4,0,0,0,4,1,11,6,2,9,8,4,0,13,12,31,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 5","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2,0,4,10,0,0,19,0,0,10,0,0,0,11
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Enterococcaceae","Enterococcus","Others",2,0,1,0,1,3,0,47,1,1,0,45,0,0,5,0,0,1,3,2,5,0,2,182,3,0,2,1,1,29
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Dialister","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,764,1,3,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 5","Others",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","uncultured","Others","Others",0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,5,0,0,0,0,0,36,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","uncultured bacterium",0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae UCG-010","uncultured bacterium",12,6,5,1,4,1,0,0,13,0,0,2,10,0,2,2,1,1,1,3,0,2,0,0,0,1,8,0,2,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",0,43,0,0,1,5,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,21,0,0,0,0,0,0,0,7
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","Others",0,161,353,17,89,106,24,0,55,1,140,511,138,273,100,116,85,277,179,24,0,411,606,3,396,102,397,613,87,284
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,1,0,0,0,4,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,7,0,0,3,0,0,0,0
+"Bacteria","Firmicutes","Erysipelotrichia","Erysipelotrichales","Erysipelotrichaceae","Erysipelotrichaceae UCG-003","uncultured bacterium",11,0,11,3,0,0,23,14,0,2,1,0,2,0,1,0,0,4,0,0,0,0,2,3,5,13,7,2,5,7
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","Collinsella","uncultured bacterium",0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Mitsuokella","Others",478,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Sutterella","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","uncultured","Others",0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,0,34,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Allisonella","uncultured bacterium",0,0,0,0,0,0,0,0,54,0,1,0,25,0,1,0,0,0,26,0,0,0,34,0,11,0,0,0,3,37
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Oscillibacter","uncultured bacterium",0,0,2,0,0,2,2,0,0,0,21,3,1,0,8,1,0,8,0,0,0,2,4,0,0,0,0,1,3,0
+"Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Others",0,0,0,0,0,3,1,33,15,4,5,0,3,3,2,0,0,3,1,5,7,1,0,7,7,5,5,6,4,3
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",5157,536,2013,35,1210,1225,2246,822,461,11228,898,1568,1266,1128,620,2911,57,1040,413,433,6644,646,276,918,1187,1307,255,1780,1564,241
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","Collinsella","uncultured bacterium",88,63,0,98,17,0,99,867,81,1,80,1159,429,115,57,61,3,49,689,194,4,132,303,3,650,703,0,1,297,766
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Leuconostocaceae","Weissella","Weissella confusa",6,0,0,0,0,0,0,25,0,0,0,0,6,0,0,0,0,0,1,1,2,0,0,16,0,0,1,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","Others",0,0,0,0,0,0,2,0,0,3,0,0,0,0,1,1,0,8,0,0,0,6,0,0,4,0,1,1,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",7,35,13,0,2,0,0,14,0,0,1,1,0,3,1,0,0,2,0,1,0,0,9,0,0,0,4,1,8,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Barnesiellaceae","Coprobacter","uncultured bacterium",0,0,1,3,0,0,0,0,0,0,1,0,0,0,1,10,0,5,0,0,0,5,3,0,6,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Butyricimonas","uncultured bacterium",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0,0,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Howardella","uncultured bacterium",0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,17
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Butyricimonas","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,1,0,0,0,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Ruminococcus] torques group","Others",7,178,27,17,63,79,120,92,53,279,29,30,379,397,265,52,19,341,346,226,24,103,255,166,617,499,3,53,97,139
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae Ga6A1 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,51,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Carnobacteriaceae","Carnobacterium","Others",0,0,0,0,0,1,0,6,4,2,0,3,1,0,0,0,0,5,3,10,8,4,5,14,8,6,9,6,0,11
+"Bacteria","Firmicutes","Erysipelotrichia","Erysipelotrichales","Erysipelotrichaceae","Holdemanella","uncultured bacterium",0,12,0,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,45,0,0,0,12
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",0,0,0,0,0,0,0,0,0,0,3,0,2,0,8,2,0,28,0,0,0,3,15,0,22,0,0,0,3,5
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,2,0,1,0,1,0,0,0,0,15,0,2,0,0,1,0,2,0,2,0,1,3,0,1,2,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Butyricimonas","uncultured bacterium",30,81,3,0,0,0,10,0,0,0,18,6,0,2,1,49,0,1,0,0,0,0,0,0,5,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,4,11,4,0,0,14,0,3,0,8,4,1,3,10,2,0,14,4,3,0,15,4,1,14,4,1,2,17,11
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","uncultured","Others",0,0,0,0,0,0,21,0,1,0,0,0,3,4,0,2,0,0,0,9,0,8,20,3,2,6,34,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 2","uncultured bacterium",0,1,29,0,4,326,790,258,232,0,2,0,177,18,371,410,0,1,120,1,786,22,2,313,0,14,0,619,2,22
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Family XIII UCG-001","uncultured bacterium",0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,5,0,0,11,0,1,22,0,0,0,15
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Anaerotruncus","uncultured bacterium",0,0,2,0,0,0,1,9,0,1,17,1,1,0,1,1,0,4,1,1,0,0,1,0,1,0,0,3,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","DNF00809","uncultured bacterium",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","uncultured bacterium",0,0,0,0,2,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Lactococcus","Others",0,0,0,0,0,0,0,7,1,0,1,0,2,1,1,0,0,1,1,6,4,1,3,13,2,4,5,6,7,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Family XIII AD3011 group","uncultured bacterium",0,1,0,0,0,6,1,0,1,2,1,28,3,0,4,0,0,2,3,7,0,0,19,0,13,11,7,1,4,6
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Bacillales","Family XII","Exiguobacterium","Others",0,0,0,0,0,1,1,7,2,2,2,2,4,1,0,0,0,3,5,6,4,3,2,8,2,3,7,1,3,3
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Subdoligranulum","uncultured bacterium",0,36,0,2,107,94,385,5,60,1,15,2,67,4,296,310,4,36,2,225,0,21,369,112,318,144,112,0,69,121
+"Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Others","Others",0,0,0,1,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,22,7,1,0,801,0,0,2,8,5,25
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Acidaminococcaceae","Phascolarctobacterium","uncultured bacterium",0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Anaerotruncus","uncultured bacterium",5,1,0,0,0,8,4,0,1,0,6,2,1,4,0,1,0,6,0,7,0,1,7,0,1,0,0,3,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Peptococcaceae","Peptococcus","Others",0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriales Incertae Sedis","uncultured","Others",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,7,0,4,7,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Paraprevotella","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","GCA-900066575","uncultured bacterium",0,0,1,0,0,2,2,0,0,0,0,2,9,1,7,1,0,0,0,4,0,3,0,1,1,3,0,0,27,2
+"Bacteria","Lentisphaerae","Lentisphaeria","Victivallales","Victivallaceae","Victivallis","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,4,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Negativibacillus","uncultured bacterium",0,0,13,0,0,1,0,0,1,0,7,0,0,0,2,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",2,2,1064,0,0,0,287,1,2,1,283,0,0,1,21,2104,0,183,0,0,1,2,23,0,123,59,0,0,1,19
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","uncultured","Others",0,0,0,1,0,0,1,0,0,2,0,0,6,0,0,1,0,0,0,1,0,1,4,0,0,3,0,0,5,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 1","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Anaerostipes","Others",0,0,0,0,0,0,1,94,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Aerococcaceae","Aerococcus","uncultured bacterium",0,0,0,0,0,0,1,4,2,0,0,1,2,0,5,0,0,3,0,3,5,1,2,14,6,2,7,5,7,3
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Comamonas","Others",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Slackia","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Family XIII AD3011 group","Others",0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,2,0,1,11,0,2,2,0,0,7,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,2,0,2,1,0,18,35,0,1,0,8,14,0,33,0,0,17,72,17,3,23,58,7,35,98,1,0,5,76
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 5","uncultured bacterium",0,0,0,0,0,0,0,1,0,0,13,0,0,0,0,0,0,5,10,0,0,0,0,0,3,0,0,0,5,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Fusicatenibacter","uncultured bacterium",66,24,0,17,5,61,90,24,73,1,168,31,325,73,113,21,2,145,128,249,3,76,173,755,304,462,768,120,151,161
+"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","uncultured","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Butyricimonas","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Lactococcus","uncultured bacterium",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Bacteria","Synergistetes","Synergistia","Synergistales","Synergistaceae","Pyramidobacter","Others",0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,1,2,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",0,0,0,0,0,0,0,7,3,0,0,6,4,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Butyricimonas","uncultured bacterium",40,3,44,2,0,0,6,0,0,0,4,43,0,0,0,0,0,3,0,3,0,6,19,0,5,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 9","Others",0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,2,0,0,0,0,0,0,5,1,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Subdoligranulum","uncultured bacterium",0,47,0,33,35,27,96,2,11,0,61,55,230,2,112,298,8,283,40,162,502,89,415,1,276,288,180,0,32,230
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Oscillibacter","uncultured bacterium",0,0,0,0,0,9,0,0,0,0,0,0,0,0,6,0,0,2,0,0,0,1,2,0,2,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","Others",5,3,1,0,2,2,0,9,2,25,0,0,3,0,6,2,0,4,9,24,5,5,6,7,6,6,11,6,4,11
+"Bacteria","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus","Others",0,0,0,0,0,1,0,0,1,1,0,2,2,0,0,0,0,7,1,1,2,3,0,8,5,3,6,2,5,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Dorea","uncultured bacterium",6,5,25,3,10,17,21,50,109,69,46,56,20,15,42,6,7,17,82,34,213,10,100,3,36,100,13,30,44,42
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Cyanobacteria","Melainabacteria","Gastranaerophilales","uncultured bacterium","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Slackia","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,8,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 9","uncultured bacterium",0,2,4,0,0,1,1,0,7,3,12,43,1,1,1,2,0,6,0,1,1,0,0,0,3,0,4,0,4,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-005","Others",0,0,0,0,0,0,0,0,0,0,0,1,8,0,0,0,0,1,0,2,0,1,6,0,1,0,0,0,2,3
+"Bacteria","Fusobacteria","Fusobacteriia","Fusobacteriales","Fusobacteriaceae","Fusobacterium","Others",8,1,3,0,1,431,0,5,274,0,6,1,1,9,0,2,0,1,111,1,0,0,0,0,0,0,96,0,0,76
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae NK3B31 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,0,0,5,0,0,0,0,0,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Others",0,0,0,0,0,0,17,0,0,0,1,0,1,0,5,0,0,0,0,0,0,1,0,2,0,0,0,0,0,37
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Tyzzerella","Others",3,0,3,0,0,0,0,0,0,3,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0,5,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-009","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","uncultured bacterium",0,5,0,0,0,47,0,0,0,0,0,0,0,0,43,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae NK4A214 group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Atopobiaceae","Olsenella","Others",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Patescibacteria","Saccharimonadia","Saccharimonadales","Saccharimonadaceae","Others","Others",0,1,2,0,1,1,0,1,0,2,0,0,0,0,0,0,0,0,3,3,1,1,2,3,0,1,4,0,2,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Dorea","uncultured bacterium",35,11,47,22,16,41,314,10,27,231,10,849,90,45,69,10,12,70,221,190,7,203,229,375,247,773,90,71,259,223
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Anaeroglobus","Others",0,0,0,0,0,0,0,187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 2","Alkaliphilus","Others",0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,2,2,0,1,6,3,1,1,6,0,1
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","Others",0,0,0,0,0,0,0,3,1,0,0,2,1,0,4,0,0,2,2,3,0,0,1,4,4,3,5,2,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",16,0,0,0,0,6,38,0,5,1,1,0,4,3,2,11,1,1,15,8,0,8,6,5,13,2,9,0,0,9
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,0,3,0,0,0,0,0,0,0,0,4,0,1,5,0,0,2,2,0,0,0,0,0,0,0,12
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","Others","Others",0,0,0,0,0,2,2,5,1,4,1,4,1,2,0,0,0,0,0,0,1,0,1,0,3,0,0,1,3,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","Collinsella","uncultured bacterium",0,0,0,0,3,30,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,10,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","DTU089","uncultured bacterium",0,0,0,0,0,0,0,10,0,0,0,6,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,9,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-002","Others",3,59,104,34,3,147,58,1,20,0,0,0,186,0,179,84,3,153,37,139,0,143,386,1,296,276,1,0,86,142
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriales Incertae Sedis","Raoultibacter","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,2,0,1,0,1,0,0,3
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Enterorhabdus","uncultured bacterium",0,0,0,1,1,0,0,0,0,0,0,0,15,0,5,0,0,0,5,1,0,0,0,0,4,12,0,0,3,8
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,8,0,0,0,0,0,0,1,1,0,0,0,3
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Others","Others","Others",0,0,0,0,0,0,0,0,0,0,1,2,0,0,2,1,0,2,0,2,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae NK4A214 group","Others",0,0,0,0,0,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",79,0,0,0,3,2,0,5,0,10,0,0,0,2,0,0,0,0,0,0,4,1,2,0,0,0,0,1,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 9","uncultured bacterium",1,12047,4,13475,15898,26,280,31,4,4,7,3859,2978,8189,6,3,10881,7358,2228,1594,3,8634,3423,26,4457,2,3,4,0,1152
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",421,17,152,1,21,29,108,1084,11,52,47,959,29,99,148,49,64,139,16,1,34,43,28,3,160,2,18,105,37,58
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-013","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Pasteurellales","Pasteurellaceae","Haemophilus","uncultured bacterium",29,0,0,0,5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,3,21
+"Bacteria","Proteobacteria","Gammaproteobacteria","Aeromonadales","Succinivibrionaceae","Succinivibrio","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","uncultured","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 1","Others",0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Butyricimonas","uncultured bacterium",7,0,3,0,0,9,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","GCA-900066225","uncultured bacterium",0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,0,0,0,1,1
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Atopobiaceae","Olsenella","Others",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","Others",0,1,0,0,0,1,0,0,0,0,0,14,0,0,1,1,0,5,0,0,0,0,0,0,2,2,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Candidatus Soleaferrea","Others",0,0,1,0,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,1,0,0,3,1,0,1,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnoclostridium","Others",49,33,189,40,46,39,150,316,237,7,122,85,168,82,43,88,12,78,38,226,27,88,23,538,95,146,111,121,227,164
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Sellimonas","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,17,0,0,0,0,0,6,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","uncultured bacterium",0,0,0,0,0,4,1,4,0,0,1,3,0,1,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,1
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megamonas","uncultured bacterium",0,4,0,80,1,0,3,6,2756,0,51,0,3,935,0,0,32,11,17,342,0,89,70,1,10,3,6958,0,5,250
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Cellulosilyticum","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Atopobiaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Gordonibacter","Others",1,0,0,0,0,1,1,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,1,2,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Others","Others",0,0,0,17,1,0,1,1,0,0,0,0,0,0,0,0,0,0,5,1,22,0,0,53,0,0,0,7,3,88
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Faecalibacterium","uncultured bacterium",0,1,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,139,2,553,0,1,1,145,1,1,0,0,0,0,242,0,271,0,2,0,0,0,0,44,0,0,0,162
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Oscillibacter","Others",0,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XI","Ezakiella","uncultured bacterium",0,1,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,2,14,0,2,0,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,0,0,0,13,0,0,0,6,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,7
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Carnobacteriaceae","Granulicatella","uncultured bacterium",1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1,7,5,2,0,1,0,1,1,3,1,0,3
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,4,0,4,0,2,0,0,0,0,0,0,1,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Butyricimonas","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","[Eubacterium] nodatum group","uncultured bacterium",0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,3,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","Others",0,0,0,0,0,3,0,0,0,0,0,0,3,0,10,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Odoribacter","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Coprococcus 3","uncultured bacterium",0,11,15,3,9,25,145,4,135,192,16,4,56,35,11,23,8,55,116,92,13,35,164,221,104,467,279,73,0,176
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","uncultured bacterium",50,11,5,2,19,12,64,12,7,42,36,15,18,88,8,24,5,2,17,2,0,27,23,8,10,2,15,4,23,19
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15,0,0,0,0,0,0,9,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","[Eubacterium] brachy group","uncultured bacterium",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 9","uncultured bacterium",0,104,1,90,139,2,4,0,0,0,1,327,6,30,0,0,934,0,10,131,0,23,4,0,74,0,0,0,0,4
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,11,1,1,10,0,3,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0,0,0,11,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Eubacterium] xylanophilum group","uncultured bacterium",0,0,0,0,0,20,0,1,0,0,2,0,0,0,75,27,0,0,0,0,0,0,2,0,0,4,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Acidaminococcaceae","Acidaminococcus","uncultured bacterium",0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+"Bacteria","Firmicutes","Erysipelotrichia","Erysipelotrichales","Erysipelotrichaceae","Catenibacterium","uncultured bacterium",0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-008","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,4,0,0,0,0
+"Bacteria","Actinobacteria","Actinobacteria","Bifidobacteriales","Bifidobacteriaceae","Bifidobacterium","Others",42,52,0,5,91,14,0,24,64,2,68,490,107,986,323,8,2,35,41,0,256,23,13,2228,78,120,289,38,89,56
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","Others",0,0,1,1,0,2,5,0,0,0,0,4,0,0,3,2,0,1,0,1,0,2,3,0,3,1,1,4,2,2
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megasphaera","uncultured bacterium",0,0,0,0,0,0,0,0,18,0,56,0,1,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","Mailhella","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,15,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","uncultured bacterium","uncultured bacterium",0,0,0,0,0,2,1,2,0,1,1,3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Enterorhabdus","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,3068,0,2,0,0,0,5,1280,0,0,0,0,0,389,0,0,0,51,0,0,0,0,0,0,1,0,0,491,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Noviherbaspirillum","Others",1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,4,0,0,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-013","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","DTU014","Others","Others","Others",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Candidatus Soleaferrea","Others",0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,3,0,0,3,0,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,20,0
+"Archaea","Euryarchaeota","Methanobacteria","Methanobacteriales","Methanobacteriaceae","Methanosphaera","uncultured archaeon",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Anaerotruncus","Others",0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Alloprevotella","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-005","Others",0,3,1,0,0,0,1,0,0,0,0,46,2,2,3,13,0,4,0,0,0,2,4,0,4,0,0,0,1,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnoclostridium","uncultured organism",162,13,89,13,44,3,47,98,41,0,11,53,196,104,2,38,20,57,154,516,0,35,22,590,52,37,409,89,89,50
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116,0
+"Archaea","Euryarchaeota","Thermoplasmata","Methanomassiliicoccales","Methanomethylophilaceae","uncultured","Others",0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,20,0,0,0,0,0,0,0,6,0,0,246,0,0,0,0,0,0,164,0,1,0,2,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","Others","Others",0,0,0,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Enterorhabdus","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-004","uncultured bacterium",0,1,0,0,0,3,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Caproiciproducens","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,3,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Sutterella","uncultured bacterium",0,0,0,0,0,0,0,0,8,0,0,0,0,4,8,0,38,5,0,0,0,0,0,0,8,9,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Lactobacillus salivarius",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Slackia","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Bacteria","Patescibacteria","Saccharimonadia","Saccharimonadales","Saccharimonadaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,3,1,0,0,2
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","Others",0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",0,14,0,0,0,0,0,0,0,0,12,0,0,0,0,3,0,0,36,0,0,1,0,0,142,0,0,99,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","Others","Others",0,0,0,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,17,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Eubacterium] ventriosum group","uncultured bacterium",0,0,0,0,1,0,0,1,0,0,0,76,28,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","Others",0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,4,1,2,0,0,0,0,2,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Eubacterium] eligens group","uncultured bacterium",0,1,90,19,0,4,84,2,48,191,2,0,26,3,31,13,0,122,4,41,0,290,109,3,60,31,0,0,15,29
+"Bacteria","Epsilonbacteraeota","Campylobacteria","Campylobacterales","Campylobacteraceae","Campylobacter","Others",0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megamonas","uncultured bacterium",0,19,0,4,0,0,0,2,858,4,3,0,2,1085,0,0,111,0,7,3930,1,7,3,0,24,0,7,2,0,668
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-013","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","Others",0,0,0,0,0,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,67,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Anaerofilum","Others",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megasphaera","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Epsilonbacteraeota","Campylobacteria","Campylobacterales","Campylobacteraceae","Campylobacter","Others",2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 6","Others",0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,5,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Pasteurellales","Pasteurellaceae","Aggregatibacter","uncultured bacterium",0,0,0,0,3,1,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Eubacterium] ventriosum group","uncultured bacterium",0,16,10,0,8,1,19,431,19,33,185,0,227,377,1775,10,1,235,3,17,55,122,285,117,143,0,32,427,57,99
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Enterorhabdus","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Odoribacter","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Pygmaiobacter","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Erysipelotrichia","Erysipelotrichales","Erysipelotrichaceae","Faecalitalea","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","uncultured","uncultured bacterium","uncultured bacterium",0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Family XIII AD3011 group","Others",0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Porphyromonadaceae","Porphyromonas","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0
+"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","uncultured","Others","Others",0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Fusobacteria","Fusobacteriia","Fusobacteriales","Fusobacteriaceae","Fusobacterium","uncultured bacterium",0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Agathobacter","uncultured bacterium",0,716,696,286,239,263,60,1003,1414,823,420,190,2077,441,1198,353,245,1156,837,162,112,953,1508,3981,920,996,40,1634,10,1949
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 9","uncultured bacterium",0,2,0,65,951,1,717,1,0,0,0,0,22,0,0,0,1662,0,33,5,0,0,0,0,0,337,0,0,0,190
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,1,0,0,0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","[Eubacterium] brachy group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,8,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Blautia","Others",5,5,3,0,1,19,65,18,21,5,9,42,20,7,29,11,0,6,25,14,28,9,39,22,15,58,17,19,16,17
+"Bacteria","Cyanobacteria","Oxyphotobacteria","Chloroplast","Cercis gigantea","Cercis gigantea","Cercis gigantea",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Candidatus Soleaferrea","uncultured bacterium",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Gordonibacter","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",1,0,0,0,0,0,4,18,0,11,0,0,0,0,1,0,0,0,10,0,85,0,1,2,0,2,0,3,1,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-013","uncultured bacterium",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","uncultured organism",0,8,0,0,3,1,914,0,6,6,92,0,194,5,21,3,13,47,3,76,0,1,24,3,35,37,13,0,27,6
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",171,110,2165,33,42,75,119,866,10,731,119,215,130,707,688,44,2,137,50,10,0,201,100,18,855,15,169,329,541,147
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Tyzzerella","Others",0,0,1,0,0,0,0,3,0,4,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 2","uncultured bacterium",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Alloprevotella","Others",0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+"Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Plesiomonas","uncultured bacterium",0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Candidatus Soleaferrea","uncultured bacterium",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Blautia","Others",0,0,7,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,3,2,1,1,2,0,2,0,2,3,0,0
+"Bacteria","Cyanobacteria","Melainabacteria","Gastranaerophilales","uncultured bacterium","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Coprococcus 2","uncultured bacterium",0,56,0,0,0,41,0,4,2,1,0,1,307,1,473,0,0,325,1,0,1,174,89,1,171,158,0,0,0,162
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Anaerofilum","uncultured bacterium",0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XI","Parvimonas","uncultured bacterium",0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+"Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Oceanobacillus","Others",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","GCA-900066225","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Atopobiaceae","Olsenella","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Blautia","Others",2,12,33,7,4,34,6,3,81,0,49,41,232,31,156,10,4,288,64,809,673,106,215,452,198,109,1150,2,282,148
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Porphyromonadaceae","Porphyromonas","Others",0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,3,0,0,12,0,2,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,5,0,0,1,0,0,1,0,0,1,0,0,0,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","uncultured bacterium",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 2","uncultured bacterium",0,1511,0,1,2,0,1,3,0,0,0,0,0,0,1,0,1079,0,0,1,0,0,0,0,0,327,1,1,0,161
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","Others",0,0,0,0,0,1,0,223,13,10,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,178
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Eubacteriaceae","Eubacterium","Others",0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"Bacteria","Synergistetes","Synergistia","Synergistales","Synergistaceae","Cloacibacillus","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Blautia","Others",39,44,2,14,19,51,162,21,48,118,20,128,44,22,163,30,8,181,187,95,111,44,484,25,138,352,25,670,72,113
+"Bacteria","Firmicutes","Bacilli","Bacillales","Planococcaceae","Lysinibacillus","Others",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,2,1,0,1,0,0,1
+"Bacteria","Lentisphaerae","Lentisphaeria","Victivallales","Victivallaceae","Victivallis","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,3,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-013","uncultured bacterium",0,1,4,0,1,4,283,113,1,591,10,5,133,18,0,1,0,54,25,86,238,26,69,710,25,52,31,53,168,48
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-013","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XI","Ezakiella","uncultured bacterium",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,3,0,0
+"Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Geobacillus","Others",0,0,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella","uncultured bacterium",0,0,0,0,0,0,0,44,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0
+"Bacteria","Firmicutes","Bacilli","Bacillales","Staphylococcaceae","Staphylococcus","Others",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Oscillibacter","uncultured bacterium",0,4,0,0,0,2,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,5,0,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Peptostreptococcaceae","Peptostreptococcus","Others",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Sutterella","uncultured bacterium",0,0,2186,0,6,0,0,1,194,0,0,0,0,0,0,0,405,0,0,0,0,0,0,0,0,0,3,0,0,99
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Caproiciproducens","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","Others","Others",0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-013","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Neisseriaceae","Neisseria","uncultured bacterium",0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Parvibacter","uncultured bacterium",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Odoribacter","uncultured bacterium",88,2,118,0,3,48,45,0,1,0,69,129,3,42,47,114,68,129,3,1,0,72,44,0,73,4,0,21,67,10
+"Bacteria","Tenericutes","Mollicutes","Anaeroplasmatales","Anaeroplasmataceae","Anaeroplasma","Others",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Caproiciproducens","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Barnesiellaceae","Coprobacter","uncultured organism",0,0,0,0,1,3,0,2,0,0,2823,0,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,8,80,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium","uncultured bacterium",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","Others",0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Bacillales","Family XI","Gemella","uncultured bacterium",0,0,0,0,1,0,0,0,0,3,0,0,1,0,2,0,0,1,0,0,2,0,0,0,1,1,1,0,1,1
+"Bacteria","Epsilonbacteraeota","Campylobacteria","Campylobacterales","Helicobacteraceae","Helicobacter","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Atopobiaceae","Atopobium","uncultured bacterium",0,0,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","uncultured organism",0,0,0,0,0,111,0,0,0,9,0,375,258,0,0,0,0,0,0,0,0,0,0,0,1,834,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,4,1,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Hydrogenoanaerobacterium","uncultured bacterium",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae FCS020 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Ruminococcus] torques group","Others",0,0,0,0,0,1,2,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Peptococcaceae","Peptococcus","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Aeromonadales","Succinivibrionaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-013","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",1655,34,2,128,104,336,3,159,2,149,0,2,3,86,1,1,0,1,1,0,37,90,208,15,36,1,212,14,0,35
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Peptococcaceae","uncultured","uncultured bacterium",0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Parasutterella","uncultured bacterium",0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Flavobacteriales","Flavobacteriaceae","uncultured","gut metagenome",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 5","Others",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Pseudomonas","Others",0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,2,0,0,0,0,0,3
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Acidaminococcaceae","Acidaminococcus","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Defluviitaleaceae","Defluviitaleaceae UCG-011","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Paraprevotella","uncultured bacterium",0,0,0,6,3,0,0,1,0,0,0,39,0,32,0,51,3,1,7,89,2,249,125,1,9,132,0,211,1562,9
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megasphaera","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Acidaminococcaceae","Acidaminococcus","uncultured bacterium",1,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Tyzzerella","Others",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Veillonella","uncultured bacterium",6,0,14,2,0,0,0,1,0,98,0,0,0,4,0,0,0,0,0,1,2,0,0,6,1,0,19,0,2,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Faecalibacterium","Others",2035,527,0,419,316,552,841,439,1487,776,1989,805,3852,394,1582,2954,682,1606,1091,997,6,1059,815,1637,1909,2530,3045,1893,1469,1522
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Dialister","uncultured bacterium",0,130,0,0,0,0,1,2333,0,420,1,0,564,0,0,0,0,100,3,0,202,0,2,0,125,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 5","uncultured bacterium",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","uncultured","Others",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,12,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","Others",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Erysipelotrichia","Erysipelotrichales","Erysipelotrichaceae","[Clostridium] innocuum group","uncultured bacterium",0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",0,23,24,3,1,2,2,0,2,26,1626,7,9,2,13,97,1,13,7,2,0,76,8,1,12,2,10,3,40,3
+"Bacteria","Actinobacteria","Actinobacteria","Bifidobacteriales","Bifidobacteriaceae","Bifidobacterium","Others",0,20,0,8,0,0,0,2358,26,0,0,1,1,56,11,0,0,0,125,126,1,26,1,12,1,0,2,0,0,119
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-005","Others",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Oribacterium","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Butyricicoccus","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Enterorhabdus","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","[Eubacterium] nodatum group","Others",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 1","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Peptococcaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Pasteurellales","Pasteurellaceae","Haemophilus","uncultured bacterium",309,0,1,10,373,1,7,0,86,20,2,1,200,41,9,149,2,0,3,24,8,18,0,3,6,65,368,21,23,91
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megasphaera","Others",0,0,0,0,0,0,0,1,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Synergistetes","Synergistia","Synergistales","Synergistaceae","Cloacibacillus","uncultured bacterium",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,1,0,0,0,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1
+"Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Micrococcaceae","Rothia","uncultured bacterium",0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+"Bacteria","Actinobacteria","Actinobacteria","Actinomycetales","Actinomycetaceae","Actinomyces","Others",0,0,0,0,1,0,0,7,1,0,0,0,1,0,0,0,0,1,2,4,4,1,1,1,2,1,3,0,1,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 2","uncultured bacterium",0,0,0,0,0,7,68,0,1,0,0,0,0,0,1,11,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Sutterella","Others",0,0,0,16,0,16,0,0,0,0,52,11,0,1,8,1444,2,0,2,0,0,9,0,0,0,0,0,0,5,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-004","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus","Others",0,0,0,0,0,1,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-004","uncultured bacterium",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae UCG-001","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XI","Finegoldia","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Eubacteriaceae","Anaerofustis","uncultured bacterium",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 5","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Erysipelotrichia","Erysipelotrichales","Erysipelotrichaceae","Dielma","uncultured bacterium",0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Alloprevotella","uncultured bacterium",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,840,0,0,2698,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Candidatus Soleaferrea","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,2,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Mogibacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
+"Bacteria","Actinobacteria","Actinobacteria","Corynebacteriales","Corynebacteriaceae","Lawsonella","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella","Others",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Actinobacteria","Bifidobacteriales","Bifidobacteriaceae","Bifidobacterium","Others",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","Others",0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",149,13,37,0,0,23,32,2,0,21,784,0,1,1,64,10,6,149,1,0,0,1,17,1,107,64,3,9,6,9
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnoanaerobaculum","uncultured bacterium",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae ND3007 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Candidatus Soleaferrea","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Erysipelotrichia","Erysipelotrichales","Erysipelotrichaceae","Erysipelatoclostridium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Erysipelotrichia","Erysipelotrichales","Erysipelotrichaceae","Holdemania","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","uncultured bacterium",0,1,0,0,0,0,0,1,10,1,0,0,0,0,194,0,0,217,0,0,0,730,0,3,335,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Eubacterium] ruminantium group","uncultured bacterium",0,0,0,0,0,113,21,0,0,0,2,7,184,0,1,0,0,0,1,16,0,3,239,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Patescibacteria","Saccharimonadia","Saccharimonadales","Others","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Porphyromonadaceae","Porphyromonas","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Noviherbaspirillum","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","uncultured","Others",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Peptococcaceae","Peptococcus","uncultured organism",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Family XIII AD3011 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Marinifilaceae","Sanguibacteroides","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae NK4A214 group","uncultured bacterium",0,4,0,8,1,6,17,0,14,0,0,165,41,1,10,8,7,46,40,178,0,45,23,0,84,26,17,0,0,96
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Ruminococcus] gnavus group","Others",145,5,17,0,0,0,16,648,155,657,0,2,0,82,6,0,0,6,94,0,1103,0,7,33,1,99,150,85,6,20
+"Bacteria","Epsilonbacteraeota","Campylobacteria","Campylobacterales","Campylobacteraceae","Campylobacter","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",453,3,157,0,1,12,28,24,0,91,48,11,0,4,18,104,0,8,1,0,16,5,3,5,8,4,3,15,20,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Others","Others",2,0,0,168,22,0,0,0,5,6,2,1,89,0,0,4,0,0,0,52,98,0,1,495,0,1,3,159,63,734
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","uncultured","Others",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Others",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Tyzzerella 4","uncultured bacterium",0,0,0,0,0,0,0,38,2,66,14,2,0,11,0,1,0,2,0,0,924,1,0,0,1,0,0,94,2,16
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Candidatus Soleaferrea","Others",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Others",0,0,0,0,0,15,25,206,45,32,16,30,49,14,29,0,0,79,78,138,109,36,64,238,111,89,131,85,68,77
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XI","Peptoniphilus","uncultured bacterium",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 1","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriales Incertae Sedis","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Parasutterella","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Blautia","Others",0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,10,0,1,0,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-011","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Patescibacteria","Saccharimonadia","Saccharimonadales","Others","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 9","uncultured bacterium",0,16,2,3234,10,0,918,8,2,0,1,730,760,8,4,1,4506,0,1724,291,1,3,443,0,0,0,0,1,0,10
+"Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Enhydrobacter","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Atopobiaceae","uncultured","uncultured bacterium",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae ND3007 group","uncultured bacterium",3,0,0,3,2,11,384,6,18,68,26,4,7,4,11,46,6,4,42,29,48,12,3,271,4,61,46,0,64,24
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","Others",0,0,0,0,0,19,4,3,11,9,5,3,0,2,0,0,0,0,5,0,0,0,2,0,6,1,0,0,5,6
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Pediococcus","Pediococcus pentosaceus",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Fusobacteria","Fusobacteriia","Fusobacteriales","Fusobacteriaceae","Fusobacterium","Others",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XI","Anaerococcus","Others",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae FCS020 group","uncultured bacterium",0,5,0,0,21,5,31,1,4,0,5,3,18,6,9,8,1,1,5,39,0,20,24,21,32,50,4,0,43,16
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,0,0,0,1,0,0,1,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Roseburia","uncultured organism",0,109,58,70,6,110,1590,22,724,1044,110,31,351,593,167,51,46,96,17,344,2670,945,57,177,97,458,262,658,1364,482
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-003","uncultured bacterium",0,34,11,10,7,11,16,0,19,2,0,0,18,3,43,130,13,27,8,6,0,20,18,0,30,14,0,2,10,5
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",490,17,19,5,1,10,28,0,0,0,275,204,15,16,3,11,17,201,9,22,0,43,25,25,201,348,106,70,41,21
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Megasphaera","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Synergistetes","Synergistia","Synergistales","Synergistaceae","Pyramidobacter","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Carnobacteriaceae","Granulicatella","uncultured bacterium",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-003","uncultured bacterium",0,0,0,18,10,14,4,0,10,27,32,0,18,36,21,71,24,6,0,5,1,21,11,0,13,6,5,0,22,9
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 6","uncultured bacterium",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 1","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Acinetobacter","Acinetobacter calcoaceticus",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio","Others",47,8,30,2,0,215,39,0,7,38,59,34,15,0,4,9,5,86,12,173,0,34,134,11,142,19,97,48,84,26
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Candidatus Soleaferrea","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 9","Others",0,38,0,1,74,0,18,0,0,0,0,44,8,41,0,0,6,22,5,6,0,38,7,0,15,0,0,0,0,1
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Enterorhabdus","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",2,0,2,1,0,0,0,0,0,0,0,5,2,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Leuconostocaceae","Leuconostoc","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Defluviitaleaceae","Defluviitaleaceae UCG-011","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",3,0,0,1,8,38,6,4,83,8,154,0,168,1,4,45,0,10,1,12,0,23,104,10,61,17,375,0,336,14
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Enterorhabdus","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium","uncultured bacterium",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","uncultured","uncultured bacterium",0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+"Bacteria","Actinobacteria","Actinobacteria","Bifidobacteriales","Bifidobacteriaceae","Bifidobacterium","Others",0,25,2,1,20,0,0,173,15,40,28,57,158,66,40,10,0,0,52,20,101,46,3,398,28,243,87,0,0,71
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,293,0,0,0,0,73,1,131,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Ruminococcus] torques group","Others",12,1,1,0,0,5,29,1,15,16,0,58,18,48,2,4,1,5,30,0,10,43,87,0,41,2,3,122,1,8
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 9","uncultured bacterium",0,3,0,0,0,0,0,0,0,0,0,0,2,1,0,0,5,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Coprococcus 2","uncultured bacterium",0,1,0,0,0,1,0,0,0,0,0,0,50,0,5,0,0,10,0,0,0,0,23,0,2,19,0,0,0,7
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Atopobiaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Roseburia","Others",9,10,0,0,5,31,14,6,33,86,76,8,56,41,110,58,3,128,10,40,50,50,7,174,61,39,37,126,178,76
+"Bacteria","Actinobacteria","Actinobacteria","Actinomycetales","Actinomycetaceae","Actinomyces","uncultured bacterium",0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 1","Others",0,0,0,0,0,0,2,0,1,0,0,0,128,0,0,18,0,60,0,0,0,80,463,0,28,229,0,0,0,117
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Porphyromonadaceae","Porphyromonas","Others",0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Mogibacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,1,2,1,9,0,1,0,4,0,1,0,0,2,0,2,2,0,0,0,0,5,0,3,3,0,3,2
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella","Others",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","Others",0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Roseburia","Others",0,1,1,0,0,0,1177,1,0,0,0,0,5,0,2,0,0,4,1,0,0,1,15,9,3,3,0,0,0,1
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Barnesiellaceae","Coprobacter","uncultured organism",0,1,28,0,0,13,2,0,0,0,1359,0,2,2,2925,0,0,272,0,4,0,0,81,0,201,0,0,21,3,4
+"Bacteria","Fusobacteria","Fusobacteriia","Fusobacteriales","Leptotrichiaceae","Leptotrichia","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Atopobiaceae","Olsenella","uncultured bacterium",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Dialister","Others",0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Bacteria","Proteobacteria","Alphaproteobacteria","Rickettsiales","Mitochondria","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Johnsonella","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 9","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,2,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae UCG-004","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","Mailhella","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Peptostreptococcaceae","uncultured","uncultured bacterium",12,2,1,0,0,31,0,65,56,46,80,44,122,3,59,0,0,4,0,39,6,98,2,175,42,28,42,3,55,333
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","uncultured bacterium",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Ruminococcus] torques group","Others",58,1,1,0,2,16,61,2,21,43,1,154,46,86,11,11,0,11,43,0,23,125,118,35,94,2,9,201,1,19
+"Archaea","Euryarchaeota","Methanobacteria","Methanobacteriales","Methanobacteriaceae","Methanosphaera","Others",0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiales vadinBB60 group","Others","Others",0,0,0,0,0,0,1,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Flavobacteriales","Flavobacteriaceae","uncultured","gut metagenome",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Anaerofilum","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Actinobacteria","Corynebacteriales","Corynebacteriaceae","Corynebacterium 1","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Dialister","uncultured bacterium",0,0,0,60,0,0,4,1,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,566,68,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnoclostridium","Others",2,0,9,0,1,0,1,20,0,17,3,5,0,0,0,1,0,2,1,2,2,0,1,0,1,0,8,5,3,1
+"Bacteria","Fusobacteria","Fusobacteriia","Fusobacteriales","Fusobacteriaceae","Fusobacterium","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,2,4,1,1,0,4,0,1,2,0,4,1,3
+"Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Others","Others",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,1
+"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Acetatifactor","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Lentisphaerae","Lentisphaeria","Victivallales","vadinBE97","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriales Incertae Sedis","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae UCG-004","uncultured organism",28,15,320,21,14,9,48,68,65,155,25,13,111,30,10,32,23,12,92,70,22,25,6,173,18,26,104,29,35,27
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae FCS020 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Roseburia","Others",0,0,4,1,0,1,0,0,0,8,1,0,4,0,1,1,0,1,0,1,15,0,1,0,0,0,2,2,1,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,0,25,0,1,0,10,0,0,0,2,0,0,0,0,53,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-005","uncultured bacterium",0,0,0,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 5","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Others",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Anaerotruncus","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-002","uncultured bacterium",2,65,10,3,0,364,21,3,6,4,74,27,47,1,150,16,5,86,3,19,0,25,104,2,120,28,1,2,85,74
+"Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Pseudomonas","Pseudomonas aeruginosa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae UCG-003","uncultured bacterium",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","uncultured","uncultured bacterium",0,0,0,0,0,0,4,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured organism","uncultured organism",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","S5-A14a","Others",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","Collinsella","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Tyzzerella","uncultured bacterium",0,0,13,0,0,0,1,1,2,0,0,0,4,0,0,0,0,0,0,5,0,2,4,0,1,0,0,0,4,3
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,0,65,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Tyzzerella","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Dialister","Others",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Blautia","Others",88,72,12,9,5,36,179,79,77,39,60,164,65,21,128,107,5,57,195,108,110,32,226,59,109,397,56,1076,53,58
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","DNF00809","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Lachnospiraceae NK4A136 group","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 9","uncultured bacterium",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,98,0,3,13,0,0,0,0,1,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","Others","Others",0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium",0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,1,0,0,10,2,0,0,0,1,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","[Eubacterium] hallii group","uncultured bacterium",18,11,4,6,7,254,1012,996,299,1,369,553,882,220,491,1,1,1119,997,2048,2951,341,1174,823,1178,1729,559,630,1529,921
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Parasutterella","Others",239,59,2,18,180,2,163,17,0,0,15,0,66,0,8,107,1,0,30,15,284,17,0,1,3,22,0,0,4,2
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-010","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","uncultured","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","Family XIII AD3011 group","Others",0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-014","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae NK3B31 group","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Others","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Muribaculaceae","uncultured bacterium","uncultured bacterium",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-013","Others",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","Others",0,17,0,0,0,118,51,1,0,0,0,0,6,0,18,0,2,29,0,0,0,2,3,0,22,32,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",5,11,227,3,0,3,61,0,1,199,20,1,0,9,12,0,7,62,2,27,0,2,176,0,238,60,0,11,123,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcus 1","Others",0,13,0,0,0,50,0,1,0,0,0,0,0,1,4,449,0,0,0,1,0,0,4,0,0,29,9,0,1,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Butyricicoccus","uncultured bacterium",0,2,27,3,8,4,21,4,14,2,0,0,39,11,15,0,1,13,39,16,2,11,16,5,39,105,0,0,79,113
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Others",0,0,0,0,0,0,0,5,0,0,0,63,0,0,0,0,0,0,0,0,10,0,7,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminococcaceae UCG-002","Others",0,1,0,0,0,94,4,2,0,0,440,0,2,1,56,2,0,11,0,3,0,0,8,0,5,3,0,0,0,3
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella 7","uncultured organism",0,0,0,0,0,73,0,10,3116,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,634,0,1,4,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,0,0,0,0,5,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",2,4,0,1,12,16,28,1,7,4,2,0,22,1,7,5,0,40,21,8,17,4,89,91,29,119,62,428,0,31
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Blautia","Others",254,38,18,27,76,79,563,2528,272,163,432,206,178,219,169,868,115,249,812,361,1048,177,287,1601,340,821,825,772,726,152
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium",11,11,5,2,9,7,21,2,159,85,16,234,82,0,13,20,2,30,9,381,508,49,0,0,71,83,116,6,2,47
+"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","uncultured","Others","Others",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Veillonellaceae","Dialister","uncultured bacterium",79,0,0,0,0,0,0,2,0,4,0,1761,0,0,0,0,15,0,2246,0,0,0,0,0,2,0,0,0,0,2869
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Ruminiclostridium 5","Others",0,2,1,0,0,0,18,0,0,0,0,2,0,0,39,0,0,34,2,61,0,242,1,1,126,2,1,6,3,3
+"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Lactococcus","Others",0,0,0,0,0,13,13,112,26,16,4,12,21,6,26,0,0,57,47,83,73,15,41,181,60,50,105,64,47,47
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides","uncultured bacterium",231,88,466,9,37,50,3,817,8,103,48,36,51,92,85,32,19,136,20,8,0,46,45,72,104,4,40,431,52,46
+"Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Klebsiella","Others",11,1,1,60,19,36,3,81,1,13,0,72,427,0,0,91,0,1,0,8,192,0,0,189,0,26,1,912,15,577
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Rikenellaceae","Alistipes","Others",117,13,33,7,0,105,145,0,1,5,62,118,26,1,156,17,16,76,0,2,0,67,71,0,34,10,0,19,70,3
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","Others",0,12,0,0,0,3,0,1,0,0,0,0,11,0,70,36,0,57,13,28,0,0,97,0,109,76,0,0,0,8
+"Archaea","Euryarchaeota","Methanobacteria","Methanobacteriales","Methanobacteriaceae","Methanobrevibacter","Others",0,0,0,0,0,131,0,0,1,0,0,2,2,0,273,0,0,0,74,0,0,1,0,0,0,98,0,0,0,23
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",949,126,349,1,9,746,499,1085,11,646,5166,468,26,33,1326,755,12,429,60,10,108,232,654,371,334,149,337,387,1189,13
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Parasutterella","uncultured organism",0,339,0,64,697,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Others",0,3,0,0,1,0,12,0,0,0,0,0,0,0,220,0,0,0,0,0,0,11,0,0,0,0,0,0,5,7
+"Bacteria","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Sutterella","Others",0,0,22,1048,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,0,0
+"Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Eggerthellaceae","Enterorhabdus","uncultured bacterium",0,3,0,0,0,1,14,1,0,0,34,358,124,0,6,0,0,143,6,46,0,56,236,73,164,245,4,0,0,4
+"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","uncultured bacterium",0,0,0,0,0,893,0,1,0,0,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","[Eubacterium] coprostanoligenes group","uncultured organism",0,33,0,0,0,45,45,223,2,0,0,0,0,0,0,0,6,0,1,0,0,14,276,2,0,9,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Others","Others",0,10,0,0,0,203,0,1,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",1,8,0,3,26,6,48,1,7,0,0,2,20,4,3,37,5,16,7,60,1,15,12,1,9,27,6,31,58,12
+"Bacteria","Firmicutes","Negativicutes","Selenomonadales","Acidaminococcaceae","Phascolarctobacterium","uncultured bacterium",0,0,0,0,1,1,0,3,2,0,0,0,0,0,172,0,0,0,0,0,0,0,0,0,0,932,0,0,0,0
+"Bacteria","Firmicutes","Clostridia","Clostridiales","Lachnospiraceae","Others","Others",0,0,0,0,0,6,0,2,1,1,1,1,1,0,74,0,0,24,0,1,0,1,16,0,13,1,0,3,3,0
