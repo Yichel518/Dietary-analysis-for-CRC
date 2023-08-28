@@ -1,0 +1,295 @@
+Biomarkernames	Log10AverageAbundance	EnrichedGroups	LDA	KW_Pvalue	Class
+Olsenella_scatoligenes	2.368973081	C_1	2.001132506	0.000386997	CvsWT_1
+Bacteroides_massiliensis	3.131534739	C_1	2.890416101	0.023259249	CvsWT_1
+Parabacteroides_merdae	3.598186741	C_1	2.941016008	0.038406564	CvsWT_1
+Clostridium_perfringens	2.800156416	C_1	2.475819082	0.000692371	CvsWT_1
+Paeniclostridium_sordellii	2.791274868	C_1	2.482813298	0.001898076	CvsWT_1
+Dubosiella_newyorkensis	5.047496176	C_1	4.730710627	0.000186395	CvsWT_1
+Turicimonas_muris	5.38792146	C_1	5.088184677	1.01E-05	CvsWT_1
+Akkermansia_muciniphila	5.482380792	C_1	5.038231896	0.003240835	CvsWT_1
+Corynebacterium_stationis	3.212870797	WT_1	2.888629514	0.014432016	CvsWT_1
+Adlercreutzia_equolifaciens	2.550472915	WT_1	2.074144302	0.0039799	CvsWT_1
+Enterorhabdus_caecimuris	3.544007284	WT_1	3.215341714	2.00E-05	CvsWT_1
+Bacteroides_stercorirosoris	3.662732604	WT_1	3.266047456	0.012520042	CvsWT_1
+Bacteroides_uniformis	4.654559419	WT_1	4.335248758	1.56E-05	CvsWT_1
+Muribaculaceae_bacterium_DSM_103720	4.900319026	WT_1	4.613524939	9.07E-09	CvsWT_1
+Butyricimonas_virosa	4.504048894	WT_1	4.152271697	0.019273256	CvsWT_1
+Prevotella_sp_MGM2	4.786224626	WT_1	4.480605659	0.000117791	CvsWT_1
+Parabacteroides_goldsteinii	4.893834807	WT_1	4.582716883	5.38E-05	CvsWT_1
+Parabacteroides_johnsonii	2.803570842	WT_1	2.495411457	0.049404736	CvsWT_1
+Staphylococcus_lentus	2.844373488	WT_1	2.537817023	0.031175812	CvsWT_1
+Lactobacillus_murinus	4.063372518	WT_1	3.666130307	0.000388461	CvsWT_1
+Lactobacillus_reuteri	3.803391007	WT_1	3.458483658	0.021137024	CvsWT_1
+Acetatifactor_muris	2.867212047	WT_1	2.510015452	0.002511452	CvsWT_1
+Lachnospiraceae_bacterium_10_1	4.52603009	WT_1	4.259463839	0.000340265	CvsWT_1
+Lachnospiraceae_bacterium_3_1	3.497838483	WT_1	3.170245896	9.07E-09	CvsWT_1
+Lachnospiraceae_bacterium_A2	2.716633912	WT_1	2.449019058	5.56E-05	CvsWT_1
+Oscillibacter_sp_1_3	3.384305561	WT_1	2.979440558	0.001719542	CvsWT_1
+Acutalibacter_muris	3.781657217	WT_1	3.422783158	0.001214631	CvsWT_1
+Anaerotruncus_sp_G3_2012	4.503882029	WT_1	4.134974739	0.003658736	CvsWT_1
+Paenalcaligenes_hominis	3.571314049	WT_1	3.252970221	0.002631647	CvsWT_1
+Psychrobacter_pasteurii	3.233241521	WT_1	2.900512508	0.007542282	CvsWT_1
+Bifidobacterium_pseudolongum	3.843726851	B_1	3.468900162	0.012294775	CvsB_1
+Bacteroides_caecimuris	3.825066488	B_1	3.407582998	0.000352281	CvsB_1
+Bacteroides_stercorirosoris	3.378921108	B_1	2.899895421	0.001652828	CvsB_1
+Muribaculum_intestinale	5.024300092	B_1	4.415171499	0.000382061	CvsB_1
+Prevotella_sp_MGM1	3.670130502	B_1	3.361024858	2.68E-08	CvsB_1
+Prevotella_sp_MGM2	5.265744708	B_1	4.93181183	7.29E-09	CvsB_1
+Alistipes_indistinctus	3.253141801	B_1	2.875874999	2.49E-07	CvsB_1
+Parabacteroides_distasonis	4.338970144	B_1	3.775134362	0.037930185	CvsB_1
+Parabacteroides_goldsteinii	3.966411745	B_1	3.303993639	0.017540359	CvsB_1
+Lactobacillus_reuteri	2.926859218	B_1	2.283202685	0.028972426	CvsB_1
+Clostridium_sp_ASF502	3.080367047	B_1	2.702678116	1.67E-05	CvsB_1
+Dorea_sp_5_2	3.840049025	B_1	3.269695192	0.001657977	CvsB_1
+Lachnospiraceae_bacterium_10_1	4.240965985	B_1	3.924995128	0.000874026	CvsB_1
+Lachnospiraceae_bacterium_M18_1	2.835702673	B_1	2.183877194	0.009031461	CvsB_1
+Oscillibacter_sp_1_3	3.59060298	B_1	3.257647473	0.013836337	CvsB_1
+Olsenella_scatoligenes	2.368973081	C_1	2.071340069	6.14E-09	CvsB_1
+Collinsella_massiliensis	2.316196223	C_1	2.018682905	5.08E-08	CvsB_1
+Alistipes_shahii	3.109629151	C_1	2.688374325	0.042071486	CvsB_1
+Clostridium_perfringens	2.800156416	C_1	2.4923367	1.53E-06	CvsB_1
+Paeniclostridium_sordellii	2.791274868	C_1	2.505906401	9.00E-06	CvsB_1
+Dubosiella_newyorkensis	5.047496176	C_1	4.737221536	3.80E-06	CvsB_1
+Clostridium_cocleatum	3.090001525	C_1	2.695939636	4.99E-06	CvsB_1
+Faecalibaculum_rodentium	5.07138293	C_1	4.461216074	0.001917551	CvsB_1
+Turicimonas_muris	5.38792146	C_1	4.926411335	9.58E-07	CvsB_1
+Escherichia_coli	3.599310989	C_1	3.319204832	0.003682558	CvsB_1
+Bifidobacterium_pseudolongum	3.72858914	B_3	3.338079817	3.10E-05	CvsB_3
+Bacteroides_caecimuris	4.360142167	B_3	3.924068502	0.001005556	CvsB_3
+Bacteroides_stercorirosoris	3.839765632	B_3	3.513755077	7.37E-05	CvsB_3
+Bacteroides_thetaiotaomicron	4.541607679	B_3	4.248015196	0.004894127	CvsB_3
+Bacteroides_uniformis	4.108640703	B_3	3.837764286	0.006803573	CvsB_3
+Muribaculum_intestinale	5.154541531	B_3	4.743847867	0.000621137	CvsB_3
+Prevotella_sp_MGM1	4.309004482	B_3	3.998930158	5.78E-07	CvsB_3
+Prevotella_sp_MGM2	5.098998867	B_3	4.763534906	0.011954176	CvsB_3
+Alistipes_indistinctus	3.458265852	B_3	2.91095137	0.002863746	CvsB_3
+Parabacteroides_johnsonii	2.628687526	B_3	2.284827258	2.48E-06	CvsB_3
+Lactobacillus_johnsonii	3.45672916	B_3	3.131591659	0.00011631	CvsB_3
+Lactobacillus_reuteri	3.189285136	B_3	2.834372265	0.002919909	CvsB_3
+Lachnospiraceae_bacterium_10_1	4.58407753	B_3	4.155298957	0.004985499	CvsB_3
+Firmicutes_bacterium_ASF500	3.759349302	B_3	3.410645708	0.008509044	CvsB_3
+Helicobacter_japonicus	4.310222887	B_3	3.803485599	0.028332963	CvsB_3
+Enterorhabdus_caecimuris	3.008794325	C_3	2.493268007	0.043671157	CvsB_3
+Clostridium_perfringens	3.599965561	C_3	3.348804822	5.69E-06	CvsB_3
+Paeniclostridium_sordellii	3.002071464	C_3	2.734255549	0.000776287	CvsB_3
+Flavonifractor_plautii	3.606696283	C_3	3.320299795	0.005705691	CvsB_3
+Dubosiella_newyorkensis	4.868376283	C_3	4.256841851	0.007472324	CvsB_3
+Clostridium_cocleatum	4.029234281	C_3	3.723522469	0.000161161	CvsB_3
+Faecalibaculum_rodentium	5.217898742	C_3	4.787832079	0.000229924	CvsB_3
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

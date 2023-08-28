@@ -1,0 +1,161 @@
+cd /home/yxtu/Data/AOM_BR/
+sed '1d' "/home/yxtu/Data/AOM_BR/meta2.txt" |awk -F "\t" '{print $1"\t"$3}'|xargs -n2 bash -c 'ln -s /home/kcyu/project/W220615013_20_metaWGS_10Gb/$0/2*/*_1.fq.gz $1_1.fq.gz'
+sed '1d' "/home/yxtu/Data/AOM_BR/meta2.txt" |awk -F "\t" '{print $1"\t"$3}'|xargs -n2 bash -c 'ln -s /home/kcyu/project/W220615013_20_metaWGS_10Gb/$0/2*/*_2.fq.gz $1_2.fq.gz'
+
+cd /home/yxtu/Data/AOM_BR/
+sed '1d' "/home/yxtu/Data/AOM_BR/metadata.txt" |awk -F "\t" '{print $1"\t"$2}'|xargs -n2 bash -c 'ln -s /home/kcyu/project/W220519017_129_metaWGS_10Gb/$0/2*/*_1.fq.gz $1_1.fq.gz'
+sed '1d' "/home/yxtu/Data/AOM_BR/metadata.txt" |awk -F "\t" '{print $1"\t"$2}'|xargs -n2 bash -c 'ln -s /home/kcyu/project/W220519017_129_metaWGS_10Gb/$0/2*/*_2.fq.gz $1_2.fq.gz'
+
+
+mkdir -p /home/yxtu/Data/AOM_BR/kneaddata/output/
+for i in $(ls /home/yxtu/Data/AOM_BR/*_1.fq.gz); do j=`basename $i`;
+echo "kneaddata -i ${i} -i ${i%%_1.fq.gz}_2.fq.gz -o /home/yxtu/Data/AOM_BR/kneaddata/output/ -v \
+--reference-db /home/yxtu/Data/CRC_Apc/kneaddata/mouse_genome/  \
+--trimmomatic /home/yxtu/software/Trimmomatic-0.38/  \
+--trimmomatic-options 'SLIDINGWINDOW:4:20 MINLEN:50' \
+-t 9 --bowtie2-options '--very-sensitive --dovetail' --remove-intermediate-output" > /home/yxtu/Data/AOM_BR/kneaddata/output/${j%%_1.fq.gz}.pbs;done
+for i in $(ls /home/yxtu/Data/AOM_BR/kneaddata/output/*.pbs); do qsub -q batch -V -l nodes=1:ppn=2 $i;done
+
+mkdir  /home/yxtu/Data/AOM_BR/kneaddata/cat_reads/
+for i in $(ls /home/yxtu/Data/AOM_BR/kneaddata/output/*_paired_1.fastq); do j=`basename $i`;
+echo "cat  ${i} ${i%%_paired_1.fastq}_paired_2.fastq ${i%%_paired_1.fastq}_unmatched_1.fastq ${i%%_paired_1.fastq}_unmatched_2.fastq  | awk '{if(NR%4==1) print \"@\"NR; else print \$0}'> /home/yxtu/Data/AOM_BR/kneaddata/cat_reads/${j%%_paired_1.fastq}.fastq" >/home/yxtu/Data/AOM_BR/kneaddata/${j%%_paired_1.fastq}.pbs;done
+for i in $(ls  /home/yxtu/Data/AOM_BR/kneaddata/*.pbs); do qsub -q batch -V -l nodes=2:ppn=4 $i;done
+
+mkdir /home/yxtu/Data/AOM_BR/metaphlan/
+for i in $(ls   /home/yxtu/Data/AOM_BR/kneaddata/cat_reads/*.fastq); do j=`basename $i`;
+echo "metaphlan ${i} --input_type fastq -o /home/yxtu/Data/AOM_BR/metaphlan/${j%%.fastq}_metaphlan.txt" > /home/yxtu/Data/AOM_BR/metaphlan/${j%%.fastq}_metaphlan.pbs;done
+for i in $(ls /home/yxtu/Data/AOM_BR/metaphlan/*_metaphlan.pbs); do qsub -q batch -V -l nodes=2:ppn=16 $i;done
+
+merge_metaphlan_tables.py /home/yxtu/Data/AOM_BR/metaphlan/*.txt  >/home/yxtu/Data/AOM_BR/metaphlan/merged_abundance_table.txt
+cd /home/yxtu/Data/AOM_BR/metaphlan/
+grep -E '(s__)|(clade_name)' merged_abundance_table.txt |grep -v 't__'|sed 's/^.*s__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_abundance_table_species.txt
+grep -E '(g__)|(clade_name)' merged_abundance_table.txt |grep -v 's__'|sed 's/^.*g__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_abundance_table_genus.txt
+grep -E '(f__)|(clade_name)' merged_abundance_table.txt |grep -v 'g__'|sed 's/^.*f__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_abundance_table_family.txt
+grep -E '(o__)|(clade_name)' merged_abundance_table.txt |grep -v 'f__'|sed 's/^.*o__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_abundance_table_order.txt
+grep -E '(c__)|(clade_name)' merged_abundance_table.txt |grep -v 'o__'|sed 's/^.*c__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_abundance_table_class.txt
+grep -E '(p__)|(clade_name)' merged_abundance_table.txt |grep -v 'c__'|sed 's/^.*p__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_abundance_table_phylum.txt
+
+
+merge_metaphlan_tables.py /home/yxtu/Data/Apc_BR/merge_metaphlan/counts/*w_counts.txt >/home/yxtu/Data/Apc_BR/merge_metaphlan/counts/merged_abundance_table.txt
+cd /home/yxtu/Data/Apc_BR/merge_metaphlan/counts/
+grep -E '(s__)|(clade_name)' merged_abundance_table.txt |grep -v 't__'|sed 's/^.*s__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_species.txt
+
+
+for i in $(ls /home/yxtu/Data/AOM_BR/kneaddata/cat_reads/*.fastq); do j=`basename $i`;
+echo "metaphlan ${i} --input_type fastq -t rel_ab_w_read_stats -o /home/yxtu/Data/AOM_BR/metaphlan/${j%%.fastq}_counts.txt" > /home/yxtu/Data/AOM_BR/metaphlan/counts_${j%%.fastq}.pbs;done
+for i in $(ls /home/yxtu/Data/AOM_BR/metaphlan/counts_*.pbs); do qsub -q batch -V -l nodes=2:ppn=4 $i;done
+
+
+
+mkdir /home/yxtu/Data/AOM_BR/humann2_out/
+for i in $(ls /home/yxtu/Data/AOM_BR/kneaddata/cat_reads/*.fastq);do j=`basename $i`;
+echo "humann --threads 9 --input ${i}  --output /home/yxtu/Data/AOM_BR/humann2_out/${j%%.fastq}/" > /home/yxtu/Data/AOM_BR/humann2_out/${j%%.fastq}.pbs;done
+for i in $(ls /home/yxtu/Data/AOM_BR/humann2_out/*.pbs); do qsub -q batch -V -l nodes=2:ppn=4 $i;done
+
+mkdir "/home/yxtu/Data/AOM_BR/humann2_out/genefamily/"
+mkdir "/home/yxtu/Data/AOM_BR/humann2_out/pathway/"
+mv /home/yxtu/Data/AOM_BR/humann2_out/*_kneaddata/*_kneaddata_pathabundance.tsv "/home/yxtu/Data/AOM_BR/humann2_out/pathway/"
+mv /home/yxtu/Data/AOM_BR/humann2_out/*_kneaddata/*_kneaddata_genefamilies.tsv "/home/yxtu/Data/AOM_BR/humann2_out/genefamily/"
+
+# 合并文件
+mkdir /home/yxtu/Data/AOM_BR/humann2_out/result/
+humann_join_tables --input /home/yxtu/Data/AOM_BR/humann2_out/genefamily/ --output /home/yxtu/Data/AOM_BR/humann2_out/result/humann2_genefamilies.tsv 
+humann_join_tables --input /home/yxtu/Data/AOM_BR/humann2_out/pathway/ --output /home/yxtu/Data/AOM_BR/humann2_out/result/humann2_pathways.tsv 
+# 基因注释
+for i in {rxn,go,ko,level4ec,pfam,eggnog};
+do humann_regroup_table --input /home/yxtu/Data/AOM_BR/humann2_out/result/humann2_genefamilies.tsv  --groups uniref90_${i} --output /home/yxtu/Data/AOM_BR/humann2_out/result/humann2_anno_${i}.tsv;
+done
+
+#标准化归一化
+for i in $(ls /home/yxtu/Data/AOM_BR/humann2_out/result/*.tsv);
+do humann_renorm_table --input ${i} --output ${i%%.tsv}_relab.tsv --units relab --special n;done
+
+
+
+
+mkdir "/home/yxtu/Data/AOM_BR/humann_out/genefamily/"
+mkdir "/home/yxtu/Data/AOM_BR/humann_out/pathway/"
+mv /home/yxtu/Data/AOM_BR/humann_out/*_kneaddata/*_kneaddata_pathabundance.tsv "/home/yxtu/Data/AOM_BR/humann_out/pathway/"
+mv /home/yxtu/Data/AOM_BR/humann_out/*_kneaddata/*_kneaddata_genefamilies.tsv "/home/yxtu/Data/AOM_BR/humann_out/genefamily/"
+
+# 合并文件
+mkdir /home/yxtu/Data/AOM_BR/humann_out/result/
+humann_join_tables --input /home/yxtu/Data/AOM_BR/humann_out/genefamily/ --output /home/yxtu/Data/AOM_BR/humann_out/result/humann2_genefamilies.tsv 
+humann_join_tables --input /home/yxtu/Data/AOM_BR/humann_out/pathway/ --output /home/yxtu/Data/AOM_BR/humann_out/result/humann2_pathways.tsv 
+# 基因注释
+for i in {rxn,go,ko,level4ec,pfam,eggnog};
+do humann_regroup_table --input /home/yxtu/Data/AOM_BR/humann_out/result/humann2_genefamilies.tsv  --groups uniref90_${i} --output /home/yxtu/Data/AOM_BR/humann_out/result/humann2_anno_${i}.tsv;
+done
+
+#标准化归一化
+for i in $(ls /home/yxtu/Data/AOM_BR/humann2_out/result/*.tsv);
+do humann_renorm_table --input ${i} --output ${i%%.tsv}_relab.tsv --units relab --special n;done
+for i in $(ls /home/yxtu/Data/AOM_BR/humann2_out/result/*.tsv);
+do humann_renorm_table --input ${i} --output ${i%%.tsv}_cpm.tsv --units cpm --special n;done
+
+mkdir /home/yxtu/Data/AOM_BR/metaphlan/count/
+for i in $(ls   /home/yxtu/Data/AOM_BR/kneaddata/cat_reads/*.fastq); do j=`basename $i`;
+echo "metaphlan ${i} --input_type fastq -t rel_ab_w_read_stats -o /home/yxtu/Data/AOM_BR/metaphlan/count/${j%%.fastq}_counts.txt" > /home/yxtu/Data/AOM_BR/metaphlan/count/counts_${j%%.fastq}.pbs;done
+for i in $(ls /home/yxtu/Data/AOM_BR/metaphlan/count/counts_*.pbs); do qsub  $i;done
+
+merge_metaphlan_tables.py /home/yxtu/Data/AOM_BR/metaphlan/count/*_modify2_counts.txt  >/home/yxtu/Data/AOM_BR/metaphlan/count/merged_counts_table.txt
+cd /home/yxtu/Data/AOM_BR/metaphlan/count/
+grep -E '(s__)|(clade_name)' merged_counts_table.txt |grep -v 't__'|sed 's/^.*s__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_species.txt
+grep -E '(g__)|(clade_name)' merged_counts_table.txt |grep -v 's__'|sed 's/^.*g__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_genus.txt
+grep -E '(f__)|(clade_name)' merged_counts_table.txt |grep -v 'g__'|sed 's/^.*f__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_family.txt
+grep -E '(o__)|(clade_name)' merged_counts_table.txt |grep -v 'f__'|sed 's/^.*o__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_order.txt
+grep -E '(c__)|(clade_name)' merged_counts_table.txt |grep -v 'o__'|sed 's/^.*c__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_class.txt
+grep -E '(p__)|(clade_name)' merged_counts_table.txt |grep -v 'c__'|sed 's/^.*p__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_phylum.txt
+
+
+
+
+
+
+
+
+
+for i in $(ls /home/yxtu/Data/rawData/*.R1.raw.fastq.gz);do j=`basename $i`;
+echo "fastp -i ${i} -I ${i%%.R1.raw.fastq.gz}.R2.raw.fastq.gz -o /home/yxtu/Data/rawData/clean_data/${j%%.R1.raw.fastq.gz}.R1.clean.fastq.gz -O /home/yxtu/Data/rawData/clean_data/${j%%.R1.raw.fastq.gz}.R2.clean.fastq.gz">/home/yxtu/Data/rawData/clean_data/fastp_${j%%_1.fq.gz}.pbs;done 
+for i in `ls /home/yxtu/Data/rawData/clean_data/fastp_*.pbs`; do qsub -q batch -V -l nodes=2:ppn=8 $i;done 
+
+Bifidobacterium pseudolongum
+
+merge_metaphlan_tables.py /home/yxtu/Data/AOM_FMT/metaphlan/*_modify2_count.txt  >/home/yxtu/Data/AOM_FMT/metaphlan/merged_counts_table.txt
+cd /home/yxtu/Data/AOM_FMT/metaphlan/
+grep -E '(s__)|(clade_name)' merged_counts_table.txt |grep -v 't__'|sed 's/^.*s__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_species.txt
+grep -E '(g__)|(clade_name)' merged_counts_table.txt |grep -v 's__'|sed 's/^.*g__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_genus.txt
+grep -E '(f__)|(clade_name)' merged_counts_table.txt |grep -v 'g__'|sed 's/^.*f__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_family.txt
+grep -E '(o__)|(clade_name)' merged_counts_table.txt |grep -v 'f__'|sed 's/^.*o__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_order.txt
+grep -E '(c__)|(clade_name)' merged_counts_table.txt |grep -v 'o__'|sed 's/^.*c__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_class.txt
+grep -E '(p__)|(clade_name)' merged_counts_table.txt |grep -v 'c__'|sed 's/^.*p__//g'|awk '{$2=null;print}'|sed 's/\ \ /\ /g'|sed 's/\ /\t/g' > merged_counts_table_phylum.txt
+
+
+
+
+
+mkdir /home/yxtu/Data/Apc_BR/humann2_out/
+for i in $(ls /home/yxtu/Data/Apc_BR/kneaddata/cat_reads/*.fastq);do j=`basename $i`;
+echo "humann --threads 9 --input ${i}  --output /home/yxtu/Data/Apc_BR/humann2_out/${j%%.fastq}/" > /home/yxtu/Data/Apc_BR/humann2_out/${j%%.fastq}.pbs;done
+for i in $(ls /home/yxtu/Data/Apc_BR/humann2_out/*.pbs); do qsub -q batch -V -l nodes=2:ppn=4 $i;done
+
+mkdir "/home/yxtu/Data/Apc_BR/humann2_out/genefamily/"
+mkdir "/home/yxtu/Data/Apc_BR/humann2_out/pathway/"
+mv /home/yxtu/Data/Apc_BR/humann2_out/*_kneaddata/*_kneaddata_pathabundance.tsv "/home/yxtu/Data/Apc_BR/humann2_out/pathway/"
+mv /home/yxtu/Data/Apc_BR/humann2_out/*_kneaddata/*_kneaddata_genefamilies.tsv "/home/yxtu/Data/Apc_BR/humann2_out/genefamily/"
+
+# 合并文件
+mkdir /home/yxtu/Data/Apc_BR/humann2_out/result/
+humann_join_tables --input /home/yxtu/Data/Apc_BR/humann2_out/genefamily/ --output /home/yxtu/Data/Apc_BR/humann2_out/result/humann2_genefamilies.tsv 
+humann_join_tables --input /home/yxtu/Data/Apc_BR/humann2_out/pathway/ --output /home/yxtu/Data/Apc_BR/humann2_out/result/humann2_pathways.tsv 
+# 基因注释
+for i in {rxn,go,ko,level4ec,pfam,eggnog};
+do humann_regroup_table --input /home/yxtu/Data/Apc_BR/humann2_out/result/humann2_genefamilies.tsv  --groups uniref90_${i} --output /home/yxtu/Data/Apc_BR/humann2_out/result/humann2_anno_${i}.tsv;
+done
+
+#标准化归一化
+for i in $(ls /home/yxtu/Data/Apc_BR/humann2_out/result/*.tsv);
+do humann_renorm_table --input ${i} --output ${i%%.tsv}_relab.tsv --units relab --special n;done
+
+
+

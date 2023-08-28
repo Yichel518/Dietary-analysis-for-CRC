@@ -1,0 +1,32 @@
+Index	Compounds	物质	Class	物质类别	Q1 (Da)	Q3 (Da)	Molecular Weight	Ion mode	Ionization model	Formula	1	2	cpd_ID	CAS	kegg_map
+2-AF	2-Aminophenol	邻氨基苯酚	Aniline Compounds	苯胺化合物	110.1	110.1	109.0528	Positive	[M+H]+	C6H7NO	1262.64600	1425.26400	-	95-55-6	-
+2-AA	2-Aminobenzoic acid	邻氨基苯甲酸	Benzoic acids and derivatives	苯甲酸及其衍生物	138	120.1	137.0477	Positive	[M+H]+	C7H7NO2	1249.81800	1262.14800	C00108	118-92-3	"ko00380,ko00400,ko00405,ko00621,ko00627,ko00996,ko00997,ko00998,ko01100,ko01110,ko01120,ko01220,ko01230"
+3-HAA	3-Hydroxyanthranilic acid	3-羟基邻氨基苯甲酸	Benzoic acids and derivatives	苯甲酸及其衍生物	152	108	153.0426	Negative	[M-H]-	C7H7NO3	5.64014	4.96196	C00632	548-93-6	"ko00380,ko00627,ko01100,ko01120,ko01240"
+3-MeOAA	2-Amino-3-methoxybenzoic acid	2-氨基-3-甲氧基苯甲酸	Benzoic acids and derivatives	苯甲酸及其衍生物	166	107	167.0582	Negative	[M-H]-	C8H9NO3	N/A	N/A	C05831	3177-80-8	ko00380
+6-HMLT	6-Hydroxy melatonin	6-羟基褪黑素	Indoles and derivatives	吲哚及其衍生物	247.1	232.2	248.1161	Negative	[M-H]-	C13H16N2O3	N/A	N/A	C05643	2208-41-5	ko00380
+SER	Serotonin	血清素	Indoles and derivatives	吲哚及其衍生物	177	160.2	176.095	Positive	[M+H]+	C10H12N2O	N/A	N/A	C00780	50-67-9	"ko00380,ko01100,ko01110"
+IGA	3-Indoleglyoxylic acid	吲哚-3-乙醛酸	Indoles and derivatives	吲哚及其衍生物	190	144.1	189.0426	Positive	[M+H]+	C10H7NO3	N/A	N/A	-	1477-49-2	-
+5_HTOL	5-Hydroxytryptophol	5-羟基色醇	Indoles and derivatives	吲哚及其衍生物	178.1	160.2	177.079	Positive	[M+H]+	C10H11NO2	N/A	N/A	-	154-02-9	-
+TRM	Tryptamine	色胺	Indoles and derivatives	吲哚及其衍生物	161.1	144.1	160.1	Positive	[M+H]+	C10H12N2	23.53920	24.53562	C00398	61-54-1	"ko00380,ko00901,ko01100,ko01110"
+IEt	Tryptophol	3-吲哚乙醇	Indoles and derivatives	吲哚及其衍生物	162.1	144.1	161.0841	Positive	[M+H]+	C10H11NO	146.60040	160.36620	C00955	526-55-6	ko00380
+IAM	Indole-3-acetamide	吲哚-3-乙酰胺	Indoles and derivatives	吲哚及其衍生物	173.2	130	174.0793	Negative	[M-H]-	C10H10N2O	60.17040	53.11200	C02693	879-37-8	"ko00380,ko01100"
+5-Me-IAA	5-Methoxyindoleacetic acid	5-甲氧基吲哚-3-乙酸	Indoles and derivatives	吲哚及其衍生物	206.1	160.1	205.0739	Positive	[M+H]+	C11H11NO3	0.61294	0.87217	C05660	3471-31-6	ko00380
+L-TRP	L-tryptophan	L-色氨酸	Indoles and derivatives	吲哚及其衍生物	205	159.1	204.0899	Positive	[M+H]+	C11H12N2O2	22534.74000	22324.92000	C00078	73-22-3	"ko00260,ko00380,ko00400,ko00404,ko00901,ko00970,ko00996,ko00997,ko01100,ko01110,ko01210,ko01230,ko01240,ko05143"
+NAS	N-acetylserotonin	N-乙酰5-羟色胺	Indoles and derivatives	吲哚及其衍生物	219.1	202.2	218.1055	Positive	[M+H]+	C12H14N2O2	0.48231	0.74623	C00978	1210-83-9	"ko00380,ko01100,ko01110"
+MLT	Melatonin	褪黑素	Indoles and derivatives	吲哚及其衍生物	233.4	174.2	232.1212	Positive	[M+H]+	C13H16N2O2	N/A	N/A	C01598	73-31-4	"ko00380,ko01100,ko01110"
+5-HIAA	5-Hydroxyindoleacetic acid	5-羟基吲哚-3-乙酸	Indoles and derivatives	吲哚及其衍生物	192.2	146	191.0582	Positive	[M+H]+	C10H9NO3	3.63725	2.74084	C05635	54-16-0	"ko00380,ko01100"
+5-HTP	Hydroxytryptophan	L-5-羟色氨酸	Indoles and derivatives	吲哚及其衍生物	218.9	143.9	220.0848	Negative	[M-H]-	C11H12N2O3	11.44110	9.77226	C00643	4350-9-8	"ko00380,ko01100"
+IPA	Indolylpropionic acid	吲哚丙酸	Indoles and derivatives	吲哚及其衍生物	190	130	189.079	Positive	[M+H]+	C11H11NO2	17.34828	18.25416	-	830-96-6	-
+ILA	Indole-3-lactic acid	DL-吲哚-3-乳酸	Indoles and derivatives	吲哚及其衍生物	204.2	158.1	205.0739	Negative	[M-H]-	C11H11NO3	7649.40000	7496.70000	C02043	832-97-3	-
+ICAld	Indole-3-carbaldehyde	吲哚-3-甲醛	Indoles and derivatives	吲哚及其衍生物	146	118.1	145.0528	Positive	[M+H]+	C9H7NO	15.53394	15.94626	C08493	487-89-8	-
+IAA	β-Indole-3-acetic acid	β-吲哚-3-乙酸	Indoles and derivatives	吲哚及其衍生物	176	130.1	175.0633	Positive	[M+H]+	C10H9NO2	42.16668	42.69072	C00954	87-51-4	"ko00380,ko01100"
+IA	Indole-3-β-acrylic acid	吲哚丙烯酸	Indoles and derivatives	吲哚及其衍生物	186.1	142	187.0633	Negative	[M-H]-	C11H9NO2	1.43432	1.92764	-	1204-06-4	-
+2-KA	2-Ketoadipic acid	2-酮己二酸	Keto acids and derivatives	中链酮酸及其衍生物	159	59	160.0372	Negative	[M-H]-	C6H8O5	7.91832	7.74816	C00322	3184-35-8	"ko00300,ko00310,ko00380,ko00680,ko01100,ko01110,ko01120,ko01210,ko01230,ko01240"
+NFK	N-formylkynurenine	N-甲酰基犬尿氨酸	Organooxygen compounds	羰基化合物	237.1	220.2	236.0797	Positive	[M+H]+	C11H12N2O4	31.47744	31.32246	C02700	1022-31-7	"ko00380,ko01100,ko01240"
+L-KYN	L-kynurenine	L-犬尿氨酸	Organooxygen compounds	羰基化合物	209.1	192.1	208.0848	Positive	[M+H]+	C10H12N2O3	13.57350	12.66108	C00328	2922-83-0	"ko00380,ko01100,ko01240,ko05143"
+CA	Cinnabarinic acid	朱砂酸	Oxazines	恶嗪类	298.9	211.2	300.0382	Negative	[M-H]-	C14H8N2O6	N/A	N/A	C05640	606-59-7	"ko00380,ko01100"
+N-Acid	Nicotinic acid	烟酸	Pyridines and derivatives	吡啶及其衍生物	124	78.1	123.032	Positive	[M+H]+	C6H5NO2	2139.61200	2089.22400	C00253	59-67-6	"ko00760,ko01100,ko01110,ko01120,ko01240,ko05133"
+PA	Picolinic acid	吡啶甲酸	Pyridines and derivatives	吡啶及其衍生物	124.2	78.3	123.032	Positive	[M+H]+	C6H5NO2	5433.40800	5440.42200	C10164	98-98-6	"ko00380,ko01100"
+XA	Xanthurenic acid	黄嘌呤酸	Quinolines and derivatives	喹啉羧酸	203.9	160	205.0375	Negative	[M-H]-	C10H7NO4	35.04150	34.76214	C02470	59-00-7	ko00380
+QA	Quinolinic acid	喹啉酸	Quinolines and derivatives	喹啉羧酸	168	168	167.0218577	Positive	[M+H]+	C7H5NO4	125.99160	124.02360	C03722	89-00-9	"ko00380,ko00410,ko00760,ko01100,ko01240"
+KYNA	Kynurenic acid	犬尿酸	Quinolines and derivatives	喹啉羧酸	188.1	144.2	189.0426	Negative	[M-H]-	C10H7NO3	16.48704	16.46484	C01717	492-27-3	"ko00380,ko01100"
